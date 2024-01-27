@@ -1,0 +1,10 @@
+RewriteEngine On
+
+#NEWS
+RewriteRule ^news/(.*).html$ news-detail.php?url_news=$1  [L]
+
+##di default pagine .html chiamano il corrispettivo in .php
+RewriteRule ^(.*).html$  $1.php [L]
+
+##sitemap.xml chiama sitemap.php
+RewriteRule ^sitemap.xml$  sitemap.php [L]
