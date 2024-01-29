@@ -80,16 +80,16 @@
         swiperActivation: function () {
             $(document).ready(function () {
                 var swiper = new Swiper(".swiper-product-one", {
-                    slidesPerView: 4,
+                    slidesPerView: 3,
                     spaceBetween: 0,
-                    loop: true,
+                    loop: false,
                     navigation: {
                         nextEl: ".swiper-button-next",
                         prevEl: ".swiper-button-prev",
                     },
                     breakpoints: {
                         1700: {
-                          slidesPerView: 4,
+                          slidesPerView: 3,
                         },
                         1500: {
                           slidesPerView: 3,
@@ -638,9 +638,7 @@
                       clickable: true,
                     },
                     effect: 'fade',
-                    autoplay: {
-                        delay: 4000,
-                    },
+                    autoplay: false,
                     keyboard: {
                         enabled: true,
                     },

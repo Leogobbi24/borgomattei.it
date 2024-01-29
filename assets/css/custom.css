@@ -1,0 +1,57 @@
+ .rts-header-style-one{
+	background-color: #456363;
+}
+.nav-area-center nav ul li a {
+    color: #fff;
+}
+.nav-area-center nav ul li::after {
+    color: #fff;
+}
+.nav-area-center nav ul li:nth-child(9)::after {
+    content: "09";
+}
+.title-style-left .pre-title-area span.pre-title {
+    color: #456363;
+}
+.about-style-one-right .rts-btn {
+    border-color: #456363;
+    color: #456363;
+    border-radius: 0px;
+}
+.about-style-one-right .rts-btn:hover {
+    background: #456363;
+    color: #fff;
+    border-color: #456363;
+}
+.copyright-area-main-wrapper-one p{
+    text-align: center;
+}
+.copyright-style-one .copyright-area-main-wrapper-one {
+    display: block;
+    text-align: center;
+}
+.mySwiper-banner-one-in-two .swiper-pagination-bullet {
+    background: #456363;
+}
+.mySwiper-banner-one-in-two .swiper-pagination-bullet.swiper-pagination-bullet-active {
+    background-image: none;
+    width: 12px;
+    height: 12px;
+    background-color: transparent;
+    border: 1px solid #456363;
+}
+.rts-footer-area{
+    background-color: #456363;
+}
+.single-footer-wized .contact-information-1 .single-contact-info .information span {
+    color: #d9d9d9;
+}
+.left-swiper-area-start .single-left-banner-swiper-start {
+    background: #456363;
+}
+.left-swiper-area-start .single-left-banner-swiper-start .title {
+    margin-top: 20px;
+}
+.copyright-style-one {
+    border-top: 1px solid #a1a1a1;
+}
