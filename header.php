@@ -9,6 +9,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="<?php echo $path?>assets/images/fav.png">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/plugins/fontawesome-6.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/plugins/swiper.min.css">
+    <link rel="stylesheet" href="<?php echo $path?>assets/css/plugins/magnific-popup.min.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/vendor/magnific-popup.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/vendor/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/vendor/metismenu.css">
@@ -28,7 +29,7 @@
             <nav class="navigation">
                 <ul class="parent-ul">
                     <li><a href="javascript:;">Storia</a></li>
-                    <li><a href="javascript:;">Ospitalità</a></li>
+                    <li><a href="ospitalita.html">Ospitalità</a></li>
                     <li><a href="javascript:;">Matrimoni&Eventi</a></li>
                     <li><a href="javascript:;">Servizi</a></li>
                     <li><a href="javascript:;">Vini</a></li>

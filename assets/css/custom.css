@@ -1,5 +1,5 @@
  .rts-header-style-one{
-	background-color: #456363;
+	background-color: #6C8881;
 }
 .nav-area-center nav ul li a {
     color: #fff;
@@ -11,17 +11,17 @@
     content: "09";
 }
 .title-style-left .pre-title-area span.pre-title {
-    color: #456363;
+    color: #6C8881;
 }
 .about-style-one-right .rts-btn {
-    border-color: #456363;
-    color: #456363;
+    border-color: #6C8881;
+    color: #6C8881;
     border-radius: 0px;
 }
 .about-style-one-right .rts-btn:hover {
-    background: #456363;
+    background: #6C8881;
     color: #fff;
-    border-color: #456363;
+    border-color: #6C8881;
 }
 .copyright-area-main-wrapper-one p{
     text-align: center;
@@ -31,27 +31,71 @@
     text-align: center;
 }
 .mySwiper-banner-one-in-two .swiper-pagination-bullet {
-    background: #456363;
+    background: #6C8881;
 }
 .mySwiper-banner-one-in-two .swiper-pagination-bullet.swiper-pagination-bullet-active {
     background-image: none;
     width: 12px;
     height: 12px;
     background-color: transparent;
-    border: 1px solid #456363;
+    border: 1px solid #6C8881;
 }
 .rts-footer-area{
-    background-color: #456363;
+    background-color: #6C8881;
 }
 .single-footer-wized .contact-information-1 .single-contact-info .information span {
     color: #d9d9d9;
 }
 .left-swiper-area-start .single-left-banner-swiper-start {
-    background: #456363;
+    background: #6C8881;
 }
 .left-swiper-area-start .single-left-banner-swiper-start .title {
     margin-top: 20px;
 }
 .copyright-style-one {
     border-top: 1px solid #a1a1a1;
+}
+.breadcrumb-area-bg{
+    background-color: #F6F6F6;
+    background-image: none;
+}
+.breadcrumb-area-bg .bread-crumb-area-inner .bottom-title .title {
+    color: #30373E;
+}
+.breadcrumb-area-bg .bread-crumb-area-inner .breadcrumb-top a.active {
+    color: #30373E;
+}
+.breadcrumb-area-bg .bread-crumb-area-inner {
+    text-align: center;
+    padding: 75px 0;
+}
+.breadcrumb-area-bg .bread-crumb-area-inner .bottom-title .title {
+    font-size: 40px;
+}
+.breadcrumb-area-bg .bread-crumb-area-inner .bottom-title .title {
+    line-height: 50px;
+    margin: 0px;
+}
+.bread-crumb-area-inner .btn-primary{
+    border-radius: 0px;
+    margin-top: 20px;
+    background-color: #6C8881 !important;
+}
+.custom-table .right{
+    text-align: right;
+}
+.custom-table{
+    background-color: #F6F6F6;
+    padding: 20px 20px;
+    margin-top: 40px;
+}
+.product-details-right-one .single-details-short {
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+p.disc b{
+    color: #30373E;
+}
+.mbot-20{
+    margin-bottom: 20px;
 }
