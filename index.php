@@ -59,7 +59,9 @@
                         <h2 class="title mt--0 mb--25 quote">Una suggestiva dimora nel Parco dei Castelli Romani</h2>
                     </div>
                     <p class="disc mb--25">
-                        Benvenuti a Vigna Sant'Anna - Il fascino dei Castelli Romani a pochi passi da Roma. Vivete la storia di Villa Mattei, <b>dimora del XVII secolo</b>, e godetevi il comfort della casa colonica tra i vigneti. Appartamenti unici, piscina panoramica, e un'atmosfera che unisce storia e modernità. Scoprite le esperienze personalizzate e lasciatevi incantare dai Castelli Romani.
+                        Benvenuti a Borgo Mattei: il fascino dei Castelli Romani a pochi passi da Roma.
+                        Vivete la storia di Villa Sant’Anna, <b>dimora del XVII secolo</b>, e godetevi il comfort della casa colonica tra i vigneti. Appartamenti unici, piscina panoramica, e un'atmosfera che unisce storia e modernità. Scoprite le esperienze personalizzate e lasciatevi incantare dai Castelli Romani.<br>
+                        <b>Benvenuti in un'oasi di eleganza e relax.</b>
                     </p>
                     <a href="javascript:;" class="rts-btn btn-border">La Storia</a>
                 </div>
