@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="<?php echo $path?>assets/css/vendor/metismenu.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/style.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/custom.css">
+    <link rel="stylesheet" href="<?php echo $path?>assets/css/utility.min.css">
 </head>
 
 <body class="index-one">
@@ -28,15 +29,20 @@
         <div class="nav-area-center">
             <nav class="navigation">
                 <ul class="parent-ul">
+                    <li><a href="index.html">Home</a></li>
                     <li><a href="javascript:;">Storia</a></li>
                     <li><a href="ospitalita.html">Ospitalità</a></li>
+                    <li><a href="servizi.html">Servizi&Attività</a></li>
                     <li><a href="javascript:;">Matrimoni&Eventi</a></li>
-                    <li><a href="javascript:;">Servizi</a></li>
-                    <li><a href="javascript:;">Vini</a></li>
-                    <li><a href="javascript:;">Antiche cantine</a></li>
-                    <li><a href="javascript:;">Progetto</a></li>
-                    <li><a href="javascript:;">News</a></li>
+                    <li><a href="javascript:;">Castelli Romani</a></li>
                     <li><a href="javascript:;">Contatti</a></li>
+                    <li class="has-dropdown evidence">
+                        <a href="javascript:;">Antiche cantine</a>
+                        <ul class="submenu">
+                            <li class="lim"><a class="sdm-main" href="blog.html">Progetto</a></li>
+                            <li class="lim"><a class="sdm-main last" href="blog.html">News</a></li>
+                        </ul>
+                    </li>
                 </ul>
             </nav>
         </div>

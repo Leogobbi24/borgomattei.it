@@ -5,6 +5,34 @@
                 <div class="col-lg-3">
                     <div class="single-footer-wized">
                         <div class="menu-links-area">
+                            <h6 class="title">Seguici sui Social</h6>
+                            <div class="contact-information-1">
+                                <div class="single-contact-info">
+                                    <div class="icon">
+                                        <i class="fab fa-facebook"></i>
+                                    </div>
+                                    <div class="information">
+                                        <a href="https://www.facebook.com/profile.php?id=61556347340229&sfnsn=scwspwa" target="_blank">Borgo Mattei</a>
+                                        <span class="support">Facebook</span>
+                                    </div>
+                                </div>
+                                <div class="single-contact-info">
+                                    <div class="icon">
+                                        <i class="fab fa-instagram"></i>
+                                    </div>
+                                    <div class="information">
+                                        <a href="https://www.instagram.com/borgo_mattei?igsh=MTM2dHVzM3ptN200dQ==" target="_blank">@borgo_mattei</a>
+                                        <span class="support">Instagram</span>
+                                    </div>
+                                </div>
+                                <a href="https://lc.cx/0dj3j-" target="_blank" class="rts-btn btn-border btn-footer">Iscriviti alla Newsletter</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="single-footer-wized">
+                        <div class="menu-links-area">
                             <h6 class="title">Ospitalità e Servizi</h6>
                             <div class="contact-information-1">
                                 <div class="single-contact-info">
@@ -77,33 +105,6 @@
                                     <div class="information">
                                         <a href="mailto:info@borgomattei.it">info@borgomattei.it</a>
                                         <span class="support">Alessandro Mercanti</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="single-footer-wized">
-                        <div class="menu-links-area">
-                            <h6 class="title">Seguici sui Social</h6>
-                            <div class="contact-information-1">
-                                <div class="single-contact-info">
-                                    <div class="icon">
-                                        <i class="fab fa-facebook"></i>
-                                    </div>
-                                    <div class="information">
-                                        <a href="https://www.facebook.com/profile.php?id=61556347340229&sfnsn=scwspwa" target="_blank">Borgo Mattei</a>
-                                        <span class="support">Facebook</span>
-                                    </div>
-                                </div>
-                                <div class="single-contact-info">
-                                    <div class="icon">
-                                        <i class="fab fa-instagram"></i>
-                                    </div>
-                                    <div class="information">
-                                        <a href="https://www.instagram.com/borgo_mattei?igsh=MTM2dHVzM3ptN200dQ==" target="_blank">@borgo_mattei</a>
-                                        <span class="support">Instagram</span>
                                     </div>
                                 </div>
                             </div>
