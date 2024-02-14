@@ -54,14 +54,11 @@
                     <div class="title-style-left">
                         <div class="pre-title-area">
                             <img src="assets/images/about/02.png" alt="about">
-                            <span class="pre-title">Vigna Sant'anna</span>
+                            <span class="pre-title">Borgo Mattei</span>
                         </div>
-                        <h2 class="title mt--0 mb--25 quote">Una suggestiva dimora nel Parco dei Castelli Romani</h2>
                     </div>
-                    <p class="disc mb--25">
-                        Benvenuti a Borgo Mattei: il fascino dei Castelli Romani a pochi passi da Roma.
-                        Vivete la storia di Villa Sant’Anna, <b>dimora del XVII secolo</b>, e godetevi il comfort della casa colonica tra i vigneti. Appartamenti unici, piscina panoramica, e un'atmosfera che unisce storia e modernità. Scoprite le esperienze personalizzate e lasciatevi incantare dai Castelli Romani.<br>
-                        <b>Benvenuti in un'oasi di eleganza e relax.</b>
+                    <p class="disc mb--25 mt--25">
+                        Il Borgo sorge lungo via di Sant’Anna che collega da secoli l'Abbazia di San Nilo di Grottaferrata con Marino. Ricco di testimonianze romane e medievali, deve il suo nome al cardinale Alessandro Mattei (1744-1820). Nei secoli si susseguono restauri e cambi di proprietà, mantenendo sempre inalterata la vocazione vitivinicola. Oggi la famiglia Negro-De Fabii apre al pubblico Borgo Mattei: <b>un luogo unico, immerso nei paesaggi bucolici dei Castelli Romani e con una vista indimenticabile sulla Città Eterna!</b>
                     </p>
                     <a href="javascript:;" class="rts-btn btn-border">La Storia</a>
                 </div>
@@ -83,7 +80,7 @@
                         <h2 class="title quote">Benvenuti in un'oasi<br> di eleganza e relax</h2>
                     </div>
                     <p class="disc">
-                        Benvenuti a Borgo Mattei: il cuore di  Tenuta Sant’Anna nel Parco dei Castelli Romani a pochi passi da Roma. Scoprite l'eleganza e il comfort delle nostre residenze immerse tra le colline dei Castelli Romani.
+                        Vivete la storia di <a href="ospitalita.html#villa">Villa Sant'Anna</a>, dimora del XVII secolo, e godetevi il comfort della <a href="ospitalita.html#casa">Casa colonica</a> tra i vigneti. Appartamenti unici, piscina panoramica, e un'atmosfera che unisce storia e modernità. Scoprite le esperienze personalizzate e lasciatevi incantare dai Castelli Romani.
                     </p>
                     <div class="swiper-next-prev-wrapper">
                         <div class="swiper-button-next"></div>

@@ -24,7 +24,7 @@
         <div class="row">
             <div class="col-lg-12 mt_md--50 mt_sm--50">
                 <div class="service-details-content-right">
-                    <div class="large-image">
+                    <div class="large-image" id="villa">
                         <img src="assets/images/villa1.jpg" alt="Villa Sant'Anna">
                     </div>
                     <div class="row product-details-right-one">
@@ -88,7 +88,7 @@
                 </div>
 
                 <div class="service-details-content-right">
-                    <div class="large-image">
+                    <div class="large-image" id="casa">
                         <img src="assets/images/colonica1.jpg" alt="Casa colonica">
                     </div>
                     <div class="row product-details-right-one">

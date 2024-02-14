@@ -25,7 +25,15 @@
                                         <span class="support">Instagram</span>
                                     </div>
                                 </div>
-                                <a href="https://lc.cx/0dj3j-" target="_blank" class="rts-btn btn-border btn-footer">Iscriviti alla Newsletter</a>
+                                <div class="single-contact-info">
+                                    <div class="icon">
+                                        <i class="fa fa-envelope"></i>
+                                    </div>
+                                    <div class="information">
+                                        <a href="https://lc.cx/0dj3j-" target="_blank">Newsletter</a>
+                                        <span class="support"><a href="https://lc.cx/0dj3j-" target="_blank">Iscriviti ora</a></span>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -60,7 +68,7 @@
                 <div class="col-lg-3">
                     <div class="single-footer-wized">
                         <div class="menu-links-area">
-                            <h6 class="title">Matrimoni ed Eventi</h6>
+                            <h6 class="title">Matrimoni&Eventi</h6>
                             <div class="contact-information-1">
                                 <div class="single-contact-info">
                                     <div class="icon">
@@ -118,7 +126,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="copyright-area-main-wrapper-one">
-                            <p class="text-center">Copyright @<script>document.write(new Date().getFullYear())</script> Tenuta Sant'Anna srl | IT17109341002 | <a href="https://www.google.com/maps/dir//Borgo+Mattei,+Via+di+Sant'Anna,+5,+00195+Grottaferrata+RM/@42.9937743,10.5376205,8z/data=!4m8!4m7!1m0!1m5!1m1!1s0x132587f325efd973:0x71c6b8c6845d269b!2m2!1d12.6599869!2d41.779009?entry=ttu" target="_blank">Via di Sant’Anna 5 - Grottaferrata - RM</a></p>
+                            <p class="text-center">Copyright @<script>document.write(new Date().getFullYear())</script> Tenuta Sant'Anna srl | IT17109341002 | <a href="https://www.google.com/maps/dir//Borgo+Mattei,+Via+di+Sant'Anna,+5,+00195+Grottaferrata+RM/@42.9937743,10.5376205,8z/data=!4m8!4m7!1m0!1m5!1m1!1s0x132587f325efd973:0x71c6b8c6845d269b!2m2!1d12.6599869!2d41.779009?entry=ttu" target="_blank">Via di Sant’Anna 5 - Grottaferrata - RM</a><br><small><a href="https://www.facebook.com/profile.php?id=100095202801955&locale=it_IT" target="_blank">creato da: Alessandro Lazzaro</a></small></p>
                         </div>
                     </div>
                 </div>
