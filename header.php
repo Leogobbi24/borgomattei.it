@@ -30,7 +30,7 @@
             <nav class="navigation">
                 <ul class="parent-ul">
                     <li><a href="index.html">Home</a></li>
-                    <li><a href="javascript:;">Storia</a></li>
+                    <li><a href="storia.html">Storia</a></li>
                     <li><a href="ospitalita.html">Ospitalità</a></li>
                     <li><a href="servizi.html">Servizi&Attività</a></li>
                     <li><a href="javascript:;">Matrimoni&Eventi</a></li>

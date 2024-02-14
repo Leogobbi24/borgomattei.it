@@ -172,6 +172,11 @@ p.disc b{
 .single-working-prcess-one:hover .inner p.disc {
     color: #7D7D7D;
 }
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 @media only screen and (max-width: 1199px){
     .nav-area-center nav ul {
         gap: 20px;
