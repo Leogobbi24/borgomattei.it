@@ -33,11 +33,11 @@
                     <li><a href="storia.html">Storia</a></li>
                     <li><a href="ospitalita.html">Ospitalità</a></li>
                     <li><a href="servizi.html">Servizi&Attività</a></li>
-                    <li><a href="javascript:;">Matrimoni&Eventi</a></li>
-                    <li><a href="javascript:;">Castelli Romani</a></li>
-                    <li><a href="javascript:;">Contatti</a></li>
+                    <li><a href="matrimoni.html">Matrimoni&Eventi</a></li>
+                    <li><a href="castelli.html">Castelli Romani</a></li>
+                    <li><a href="contatti.html">Contatti</a></li>
                     <li class="has-dropdown evidence">
-                        <a href="javascript:;">Antiche cantine</a>
+                        <a href="javascript:;" class="rts-btn btn-border">Antiche cantine</a>
                         <ul class="submenu">
                             <li class="lim"><a class="sdm-main" href="blog.html">Progetto</a></li>
                             <li class="lim"><a class="sdm-main last" href="blog.html">News</a></li>

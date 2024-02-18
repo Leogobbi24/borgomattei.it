@@ -177,6 +177,13 @@ p.disc b{
   align-items: center;
   justify-content: center;
 }
+.nav-area-center nav ul li a.btn-border{
+    padding: 10px;
+    border: 1px solid #fff;
+    border-radius: 0px;
+    color: #fff !important;
+    margin-top: -10px;
+}
 @media only screen and (max-width: 1199px){
     .nav-area-center nav ul {
         gap: 20px;

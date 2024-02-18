@@ -18,11 +18,13 @@
     </div>
 </div>
 
-<div class="service-details-area-start rts-section-gap">
+<div class="service-details-area-start rts-section-gap gallery">
     <div class="container">
         <div class="row">
             <div class="col-lg-3 mt_md--50 mt_sm--50">
-                <img src="assets/images/storia/paesaggio.jpg">
+                <a href="assets/images/storia/paesaggio.jpg">
+                    <img src="assets/images/storia/paesaggio.jpg">
+                </a>
             </div>
             <div class="col-lg-9 mt_md--50 mt_sm--50 center">
                 <p class="disc">
@@ -38,7 +40,9 @@
                 </p>
             </div>
             <div class="col-lg-2 mt_md--50 mt_sm--50">
-                <img src="assets/images/storia/monaco.jpg">
+                <a href="assets/images/storia/monaco.jpg">
+                    <img src="assets/images/storia/monaco.jpg">
+                </a>
             </div>
             <div class="col-lg-10 mt_md--50 mt_sm--50 center">
                 <p class="disc">
@@ -51,13 +55,19 @@
                 </p>
             </div>
             <div class="col-lg-4 mt_md--50 mt_sm--50">
-                <img src="assets/images/storia/storia1.jpg">
+                <a href="assets/images/storia/storia1.jpg">
+                    <img src="assets/images/storia/storia1.jpg">
+                </a>
             </div>
             <div class="col-lg-4 mt_md--50 mt_sm--50">
-                <img src="assets/images/storia/storia2.jpg">
+                <a href="assets/images/storia/storia2.jpg">
+                    <img src="assets/images/storia/storia2.jpg">
+                </a>
             </div>
             <div class="col-lg-4 mt_md--50 mt_sm--50">
-                <img src="assets/images/storia/storia3.jpg">
+                <a href="assets/images/storia/storia3.jpg">
+                    <img src="assets/images/storia/storia3.jpg">
+                </a>
             </div>
             <div class="col-md-12 mt--30 mb--30">
                 <p class="disc">
@@ -67,13 +77,19 @@
                 </p>
             </div>
             <div class="col-lg-4 mt_md--50 mt_sm--50">
-                <img src="assets/images/storia/storia4.jpg">
+                <a href="assets/images/storia/storia4.jpg">
+                    <img src="assets/images/storia/storia4.jpg">
+                </a>
             </div>
             <div class="col-lg-4 mt_md--50 mt_sm--50">
-                <img src="assets/images/storia/storia5.jpg">
+                <a href="assets/images/storia/storia5.jpg">
+                    <img src="assets/images/storia/storia5.jpg">
+                </a>
             </div>
             <div class="col-lg-4 mt_md--50 mt_sm--50">
-                <img src="assets/images/storia/storia6.jpg">
+                <a href="assets/images/storia/storia6.jpg">
+                    <img src="assets/images/storia/storia6.jpg">
+                </a>
             </div>
             <div class="col-md-12 mt--30 mb--30">
                 <p class="disc">
@@ -83,16 +99,24 @@
                 </p>
             </div>
             <div class="col-lg-3 mt_md--50 mt_sm--50">
-                <img src="assets/images/storia/storia7.jpg">
+                <a href="assets/images/storia/storia7.jpg">
+                    <img src="assets/images/storia/storia7.jpg">
+                </a>
             </div>
             <div class="col-lg-3 mt_md--50 mt_sm--50">
-                <img src="assets/images/storia/storia8.jpg">
+                <a href="assets/images/storia/storia8.jpg">
+                    <img src="assets/images/storia/storia8.jpg">
+                </a>
             </div>
             <div class="col-lg-3 mt_md--50 mt_sm--50">
-                <img src="assets/images/storia/storia9.jpg">
+                <a href="assets/images/storia/storia9.jpg">
+                    <img src="assets/images/storia/storia9.jpg">
+                </a>
             </div>
             <div class="col-lg-3 mt_md--50 mt_sm--50">
-                <img src="assets/images/storia/storia10.jpg">
+                <a href="assets/images/storia/storia10.jpg">
+                    <img src="assets/images/storia/storia10.jpg">
+                </a>
             </div>
         </div>
     </div>
