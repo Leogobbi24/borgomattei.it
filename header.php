@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="<?php echo $path?>assets/css/vendor/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/vendor/metismenu.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/style.css">
-    <link rel="stylesheet" href="<?php echo $path?>assets/css/custom.css?2">
+    <link rel="stylesheet" href="<?php echo $path?>assets/css/custom.css?3">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/utility.min.css">
 </head>
 
