@@ -2,7 +2,7 @@
     <div class="rts-footer-area bg_image">
         <div class="container">
             <div class="row ptb--100 ptb_sm--60">
-                <div class="col-lg-3">
+                <div class="col-lg-3 col-6">
                     <div class="single-footer-wized">
                         <div class="menu-links-area">
                             <h6 class="title">Seguici sui Social</h6>
@@ -38,7 +38,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-3 col-6">
                     <div class="single-footer-wized">
                         <div class="menu-links-area">
                             <h6 class="title">Ospitalità e Servizi</h6>
@@ -65,7 +65,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-3 col-6">
                     <div class="single-footer-wized">
                         <div class="menu-links-area">
                             <h6 class="title">Matrimoni&Eventi</h6>
@@ -92,7 +92,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-3 col-6">
                     <div class="single-footer-wized">
                         <div class="menu-links-area">
                             <h6 class="title">Antiche Cantine</h6>
@@ -146,15 +146,15 @@
         <div class="mobile-menu-main">
             <nav class="nav-main mainmenu-nav mt--30">
                 <ul class="mainmenu metismenu" id="mobile-menu-active">
-                    <li><a href="javascript:;">Storia</a></li>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="storia.html">Storia</a></li>
                     <li><a href="ospitalita.html">Ospitalità</a></li>
-                    <li><a href="javascript:;">Matrimoni&Eventi</a></li>
-                    <li><a href="javascript:;">Servizi</a></li>
-                    <li><a href="javascript:;">Vini</a></li>
+                    <li><a href="servizi.html">Servizi&Attività</a></li>
+                    <li><a href="matrimoni.html">Matrimoni&Eventi</a></li>
+                    <li><a href="contatti.html">Dove siamo</a></li>
                     <li><a href="javascript:;">Antiche cantine</a></li>
                     <li><a href="javascript:;">Progetto</a></li>
                     <li><a href="javascript:;">News</a></li>
-                    <li><a href="javascript:;">Contatti</a></li>
                 </ul>
             </nav>
 

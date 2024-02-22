@@ -48,7 +48,7 @@
                         </div>
                         <div class="mid-center">
                             <p class="disc">
-                                Qui è possibile soggiornare e festeggiare in un’atmosfera bucolica green chic. Nel profumato giardino di Villa Sant’Anna troverete lo sfondo ideale per la vostra celebrazione simbolica che incanterà tutti gli ospiti. Potrete trascorrere il vostro giorno speciale nel giardino della fontana ottagonale, nella pineta secolare, a bordo piscina o negli originali saloni interni e godere di una vista unica sulla città eterna!
+                                Qui è possibile soggiornare e festeggiare in un’atmosfera bucolica green chic. Nel profumato giardino di Villa Sant’Anna troverete lo sfondo ideale per la vostra celebrazione simbolica che incanterà tutti gli ospiti. Potrete trascorrere il vostro giorno speciale nel giardino della fontana ottagonale, nella pineta secolare, a bordo piscina o negli originali saloni interni e godere di una vista unica sulla Città Eterna!
                             </p>
                         </div>
                     </div>
@@ -58,7 +58,7 @@
                         </div>
                         <div class="mid-center">
                             <p class="disc">
-                                A Borgo Mattei i vostri ospiti possono immergersi nei colori, nei suoni e nei profumi della campagna laziale e, allo stesso tempo, rivivere la tradizione  delle sconfinate tenute vitivinicole dei Castelli Romani. Spazi interni ed esterni adatti ad ogni tipo di evento e un panorama unico sulla città eterna per ricordi indimenticabili!
+                                A Borgo Mattei i vostri ospiti possono immergersi nei colori, nei suoni e nei profumi della campagna laziale e, allo stesso tempo, rivivere la tradizione  delle sconfinate tenute vitivinicole dei Castelli Romani. Spazi interni ed esterni adatti ad ogni tipo di evento e un panorama unico sulla Città Eterna per ricordi indimenticabili!
                             </p>
                         </div>
                     </div>
@@ -84,6 +84,53 @@
                     </div>
                 </div>
 
+            </div>
+        </div>
+        <div class="row mt--40 gallery">
+            <div class="col-lg-4">
+                <a href="assets/images/matrimoni/matrimoni1.jpg">
+                    <div class="image" style="background-image:url('assets/images/matrimoni/matrimoni1.jpg');"></div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="assets/images/matrimoni/matrimoni2.jpg">
+                    <div class="image" style="background-image:url('assets/images/matrimoni/matrimoni2.jpg');"></div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="assets/images/matrimoni/matrimoni3.jpg">
+                    <div class="image" style="background-image:url('assets/images/matrimoni/matrimoni3.jpg');"></div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="assets/images/matrimoni/matrimoni4.jpg">
+                    <div class="image" style="background-image:url('assets/images/matrimoni/matrimoni4.jpg');"></div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="assets/images/matrimoni/matrimoni5.jpg">
+                    <div class="image" style="background-image:url('assets/images/matrimoni/matrimoni5.jpg');"></div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="assets/images/matrimoni/matrimoni6.jpg">
+                    <div class="image" style="background-image:url('assets/images/matrimoni/matrimoni6.jpg');"></div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="assets/images/matrimoni/matrimoni7.jpg">
+                    <div class="image" style="background-image:url('assets/images/matrimoni/matrimoni7.jpg');"></div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="assets/images/matrimoni/matrimoni8.jpg">
+                    <div class="image" style="background-image:url('assets/images/matrimoni/matrimoni8.jpg');"></div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="assets/images/matrimoni/matrimoni9.jpg">
+                    <div class="image" style="background-image:url('assets/images/matrimoni/matrimoni9.jpg');"></div>
+                </a>
             </div>
         </div>
     </div>

@@ -184,11 +184,86 @@ p.disc b{
     color: #fff !important;
     margin-top: -10px;
 }
+.gallery .image{
+    height: 350px;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 15px;
+}
+.service-details-content-right h3.title-main-s {
+    text-transform: none;
+}
+.visit-section img{
+    display: block;
+    text-align: center;
+    max-width: 350px;
+}
+.vertical-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.rts-project-area{
+    padding-top:120px;
+}
 @media only screen and (max-width: 1199px){
     .nav-area-center nav ul {
         gap: 20px;
     }
     .nav-area-center nav ul li a {
         font-size: 15px;
+    }
+}
+@media only screen and (max-width: 768px){
+    .rts-banner-area-start-one.pb--100.ptb_sm--140{
+        padding: 0px 0px !important;
+    }
+    .left-swiper-area-start .single-left-banner-swiper-start .title {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .single-left-banner-swiper-start .disc{
+        display: none;
+    }
+    .single-left-banner-swiper-start .animation-55{
+        display: none;
+    }
+    .left-swiper-area-start .single-left-banner-swiper-start {
+        width: 271px;
+        padding: 15px 15px;
+    }
+    .left-swiper-area-start .right-shape {
+        display: none;
+    }
+    .rts-project-area{
+        padding-top: 60px;
+    }
+    .menu-links-area{
+        margin-bottom: 20px;
+    }
+    .single-footer-wized .contact-information-1 .single-contact-info .information a {
+        color: #fff;
+        font-size: 14px;
+    }
+    .single-footer-wized .contact-information-1 .single-contact-info {
+        gap: 10px;
+    }
+    .rts-section-gap {
+        padding: 30px 0;
+    }
+    .visit-section img {
+        margin: 0px auto;
+    }
+    .visit-section .vertical-center{
+        text-align: center;
+        display: block;
+        margin-bottom: 40px;
+    }
+    .visit-section h3.text-left{
+        text-align: center !important;
+    }
+    .breadcrumb-area-bg .bread-crumb-area-inner {
+        text-align: center;
+        padding: 35px 0;
     }
 }

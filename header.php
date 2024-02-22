@@ -34,8 +34,7 @@
                     <li><a href="ospitalita.html">Ospitalità</a></li>
                     <li><a href="servizi.html">Servizi&Attività</a></li>
                     <li><a href="matrimoni.html">Matrimoni&Eventi</a></li>
-                    <li><a href="castelli.html">Castelli Romani</a></li>
-                    <li><a href="contatti.html">Contatti</a></li>
+                    <li><a href="contatti.html">Dove siamo</a></li>
                     <li class="has-dropdown evidence">
                         <a href="javascript:;" class="rts-btn btn-border">Antiche cantine</a>
                         <ul class="submenu">

@@ -49,7 +49,7 @@
                     <img class="rts-reveal-image-one" src="assets/images/24.jpg" alt="about">
                 </div>
             </div>
-            <div class="col-lg-6 mt_md--50 mt_sm--50">
+            <div class="col-lg-6 mt_md--50 mt_sm--30">
                 <div class="about-style-one-right">
                     <div class="title-style-left">
                         <div class="pre-title-area">
@@ -57,17 +57,17 @@
                             <span class="pre-title">Borgo Mattei</span>
                         </div>
                     </div>
-                    <p class="disc mb--25 mt--25">
+                    <p class="disc mb--25 mt--25 mt_sm--10">
                         Il Borgo sorge lungo via di Sant’Anna che collega da secoli l'Abbazia di San Nilo di Grottaferrata con Marino. Ricco di testimonianze romane e medievali, deve il suo nome al cardinale Alessandro Mattei (1744-1820). Nei secoli si susseguono restauri e cambi di proprietà, mantenendo sempre inalterata la vocazione vitivinicola. Oggi la famiglia Negro-Mercanti apre al pubblico Borgo Mattei: <b>un luogo unico, immerso nei paesaggi bucolici dei Castelli Romani e con una vista indimenticabile sulla Città Eterna!</b>
                     </p>
-                    <a href="javascript:;" class="rts-btn btn-border">La Storia</a>
+                    <a href="storia.html" class="rts-btn btn-border">Scopri la storia</a>
                 </div>
             </div>
         </div>
     </div>
 </div>
 
-<div class="rts-project-area bg-light" style="padding-top:120px;">
+<div class="rts-project-area bg-light">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -111,7 +111,7 @@
                             <div class="swiper-slide">
                                 <div class="single-product-one">
                                     <a href="ospitalita.html" class="thumbnail">
-                                        <img src="assets/images/home/home2.jpg">
+                                        <img src="assets/images/home/home3.jpg">
                                     </a>
                                     <div class="inenr-content-absolute">
                                         <a href="ospitalita.html">
@@ -123,7 +123,7 @@
                             <div class="swiper-slide">
                                 <div class="single-product-one">
                                     <a href="ospitalita.html" class="thumbnail">
-                                        <img src="assets/images/home/home3.jpg">
+                                        <img src="assets/images/home/home2.jpg">
                                     </a>
                                     <div class="inenr-content-absolute">
                                         <a href="ospitalita.html">
@@ -194,7 +194,7 @@
                     <div class="inner">
                         <h4 class="title">Visita alla città di Roma</h4>
                         <p class="disc">
-                            Scopri il centro della città eterna in tutta la sua bellezza.
+                            Scopri il centro della Città Eterna in tutta la sua bellezza.
                         </p>
                     </div>
                 </div>

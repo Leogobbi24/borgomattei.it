@@ -77,7 +77,7 @@
                         </div>
                         <div class="mid-center">
                             <p class="disc">
-                                Scopri il centro della città eterna in tutta la sua bellezza. Scendi la scalinata di Piazza di Spagna, attraversa le vie dello shopping, goditi il fascino di Trastevere e senti il sapore della storia nei Fori Romani. Borgo Mattei dista solo 40 minuti in auto dal Colosseo e 50 minuti dalla Città del Vaticano.
+                                Scopri il centro della Città Eterna in tutta la sua bellezza. Scendi la scalinata di Piazza di Spagna, attraversa le vie dello shopping, goditi il fascino di Trastevere e senti il sapore della storia nei Fori Romani. Borgo Mattei dista solo 40 minuti in auto dal Colosseo e 50 minuti dalla Città del Vaticano.
                             </p>
                         </div>
                     </div>
