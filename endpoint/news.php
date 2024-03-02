@@ -41,11 +41,10 @@ foreach ($content as $key => $value) {
             foreach ($value as $rowKey => $rowValue) {
 
                 if($rowKey=="data") $rowValue=strtotime($rowValue);
-                if($rowKey=="visibile") $rowValue=(int)$rowValue;
 
-                if($rowKey!="codice") $set.=$rowKey."='".str_replace("'", "\'", $rowValue)."',";
+                if($rowKey!="codice" && $rowKey!="visibile") $set.=$rowKey."='".str_replace("'", "\'", $rowValue)."',";
             }
-            $set=substr($set, 0, -1);
+            $set.="visibile=".(int)$value['visibile'];
 
 		    //se il codice esiste già effettuo l'update   
 			$sql="UPDATE news SET ".$set." WHERE codice=".$value['codice'];
