@@ -28,7 +28,7 @@ foreach ($content as $key => $value) {
                 if($rowKey=="data") $rowValue=strtotime($rowValue);
 
                 $fields.=$rowKey.",";
-                $values.="'".$rowValue."',";
+                $values.="'".str_replace("'", "\'", $rowValue)."',";
             }
             $fields.="url";
             $values.="'".slugify($value['voce_menu'])."'";
@@ -42,11 +42,11 @@ foreach ($content as $key => $value) {
 
                 if($rowKey=="data") $rowValue=strtotime($rowValue);
 
-                if($rowKey!="codice") $set.=$rowKey."='".$rowValue."',";
+                if($rowKey!="codice") $set.=$rowKey."='".str_replace("'", "\'", $rowValue)."',";
             }
             $set=substr($set, 0, -1);
 
-		    //se il codice esiste già effettuo l'update
+		    //se il codice esiste già effettuo l'update   
 			$sql="UPDATE news SET ".$set." WHERE codice=".$value['codice'];
 			$conn->query($sql);
 		}
