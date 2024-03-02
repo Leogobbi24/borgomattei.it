@@ -5,7 +5,7 @@ $content = file_get_contents("php://input");
 $content=json_decode($content, true);
 
 //connect to DB
-$conn = new mysqli("localhost", "clvillao_root", "1H~+FVqA0V#ZH[~q;4", "clvillao_master");
+$conn = new mysqli("localhost", "iaborgom_root", "1H~+FVqA0V#ZH[~q;4", "iaborgom_master");
 
 $existingNews=array();
 $sql="SELECT * FROM news";
