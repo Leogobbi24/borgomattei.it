@@ -2,7 +2,7 @@
     <div class="rts-footer-area bg_image">
         <div class="container">
             <div class="row ptb--100 ptb_sm--60">
-                <div class="col-lg-3 col-6">
+                <div class="col-lg-4 col-6">
                     <div class="single-footer-wized">
                         <div class="menu-links-area">
                             <h6 class="title">Seguici sui Social</h6>
@@ -38,10 +38,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-6">
+                <div class="col-lg-4 col-6">
                     <div class="single-footer-wized">
                         <div class="menu-links-area">
-                            <h6 class="title">Ospitalità e Servizi</h6>
+                            <h6 class="title">Ospitalità - Servizi - Matrimoni - Eventi</h6>
                             <div class="contact-information-1">
                                 <div class="single-contact-info">
                                     <div class="icon">
@@ -57,7 +57,7 @@
                                         <i class="fa-regular fa-envelope"></i>
                                     </div>
                                     <div class="information">
-                                        <a href="mailto:booking@borgomattei.it">booking@borgomattei.it</a>
+                                        <a href="mailto:info@borgomattei.it">info@borgomattei.it</a>
                                         <span class="support">Giulio del Gallo</span>
                                     </div>
                                 </div>
@@ -65,34 +65,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-6">
-                    <div class="single-footer-wized">
-                        <div class="menu-links-area">
-                            <h6 class="title">Matrimoni&Eventi</h6>
-                            <div class="contact-information-1">
-                                <div class="single-contact-info">
-                                    <div class="icon">
-                                        <i class="fa-regular fa-phone-volume"></i>
-                                    </div>
-                                    <div class="information">
-                                        <a href="Tel:3492601843">349 260 1843</a>
-                                        <span class="support">Giulio del Gallo</span>
-                                    </div>
-                                </div>
-                                <div class="single-contact-info">
-                                    <div class="icon">
-                                        <i class="fa-regular fa-envelope"></i>
-                                    </div>
-                                    <div class="information">
-                                        <a href="mailto:events@borgomattei.it">events@borgomattei.it</a>
-                                        <span class="support">Giulio del Gallo</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-6">
+                <div class="col-lg-4 col-6">
                     <div class="single-footer-wized">
                         <div class="menu-links-area">
                             <h6 class="title">Antiche Cantine</h6>
@@ -111,7 +84,7 @@
                                         <i class="fa-regular fa-envelope"></i>
                                     </div>
                                     <div class="information">
-                                        <a href="mailto:info@borgomattei.it">info@borgomattei.it</a>
+                                        <a href="mailto:antichecantine@borgomattei.it">antichecantine@borgomattei.it</a>
                                         <span class="support">Alessandro Mercanti</span>
                                     </div>
                                 </div>
@@ -151,7 +124,7 @@
                     <li><a href="ospitalita.html">Ospitalità</a></li>
                     <li><a href="servizi.html">Servizi&Attività</a></li>
                     <li><a href="matrimoni.html">Matrimoni&Eventi</a></li>
-                    <li><a href="contatti.html">Dove siamo</a></li>
+                    <li class="mobile-divider"><a href="contatti.html">Dove siamo</a></li>
                     <li><a href="javascript:;">Antiche cantine</a></li>
                     <li><a href="javascript:;">Progetto</a></li>
                     <li><a href="javascript:;">News</a></li>

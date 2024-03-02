@@ -266,4 +266,15 @@ p.disc b{
         text-align: center;
         padding: 35px 0;
     }
+    .mfp-image-holder .mfp-content {
+        width: 100%;
+    }
+    .gallery .image {
+        height: 125px;
+    }
+    .mobile-divider{
+        padding-bottom: 10px !important;
+        margin-bottom: 10px !important;
+        border-bottom: 1px solid #7D7D7D;
+    }
 }

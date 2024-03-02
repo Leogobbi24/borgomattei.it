@@ -87,47 +87,47 @@
             </div>
         </div>
         <div class="row mt--40 gallery">
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-6">
                 <a href="assets/images/matrimoni/matrimoni1.jpg">
                     <div class="image" style="background-image:url('assets/images/matrimoni/matrimoni1.jpg');"></div>
                 </a>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-6">
                 <a href="assets/images/matrimoni/matrimoni2.jpg">
                     <div class="image" style="background-image:url('assets/images/matrimoni/matrimoni2.jpg');"></div>
                 </a>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-6">
                 <a href="assets/images/matrimoni/matrimoni3.jpg">
                     <div class="image" style="background-image:url('assets/images/matrimoni/matrimoni3.jpg');"></div>
                 </a>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-6">
                 <a href="assets/images/matrimoni/matrimoni4.jpg">
                     <div class="image" style="background-image:url('assets/images/matrimoni/matrimoni4.jpg');"></div>
                 </a>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-6">
                 <a href="assets/images/matrimoni/matrimoni5.jpg">
                     <div class="image" style="background-image:url('assets/images/matrimoni/matrimoni5.jpg');"></div>
                 </a>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-6">
                 <a href="assets/images/matrimoni/matrimoni6.jpg">
                     <div class="image" style="background-image:url('assets/images/matrimoni/matrimoni6.jpg');"></div>
                 </a>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-6">
                 <a href="assets/images/matrimoni/matrimoni7.jpg">
                     <div class="image" style="background-image:url('assets/images/matrimoni/matrimoni7.jpg');"></div>
                 </a>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-6">
                 <a href="assets/images/matrimoni/matrimoni8.jpg">
                     <div class="image" style="background-image:url('assets/images/matrimoni/matrimoni8.jpg');"></div>
                 </a>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-6">
                 <a href="assets/images/matrimoni/matrimoni9.jpg">
                     <div class="image" style="background-image:url('assets/images/matrimoni/matrimoni9.jpg');"></div>
                 </a>
