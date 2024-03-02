@@ -31,7 +31,7 @@ foreach ($content as $key => $value) {
                 $values.="'".$rowValue."',";
             }
             $fields.="url";
-            $values.=slugify($value['voce_menu']);
+            $values.="'".slugify($value['voce_menu'])."'";
 
 			$sql="INSERT INTO news (".$fields.") VALUES (".$values.")";
 			$conn->query($sql);
