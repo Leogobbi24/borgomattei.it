@@ -41,6 +41,7 @@ foreach ($content as $key => $value) {
             foreach ($value as $rowKey => $rowValue) {
 
                 if($rowKey=="data") $rowValue=strtotime($rowValue);
+                if($rowKey=="visibile") $rowValue=(int)$rowValue;
 
                 if($rowKey!="codice") $set.=$rowKey."='".str_replace("'", "\'", $rowValue)."',";
             }
