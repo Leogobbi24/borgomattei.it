@@ -46,120 +46,23 @@ if(!$result || $result->num_rows==0){
 <div class="rts-blog-area rts-section-gap">
     <div class="container">
         <div class="row g-24 mt--30">
-            <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                <!-- single blog area start -->
+
+        	<?php while($news=$result->fetch_array(MYSQLI_ASSOC)){ ?>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                 <div class="signle-blog-style-one">
-                    <a href="blog-details.html" class="thumbnail">
+                    <a href="news/<?php echo $news['url']?>.html" class="thumbnail" title="<?php echo $news['voce_menu']?>">
                         <img src="assets/images/blog/01.jpg" alt="blog">
-                        <span class="tag">Architecture</span>
                     </a>
                     <div class="inner-content">
-                        <a href="blog-details.html">
-                            <h5 class="title">
-                                The Retro Outdoor Furniture Set
-                                That’s Like Grandma’s—But Better
-                            </h5>
+                        <a href="news/<?php echo $news['url']?>.html" title="<?php echo $news['voce_menu']?>">
+                            <h5 class="title"><?php echo $news['voce_menu']?></h5>
                         </a>
-                        <a class="btn-blog-readmore justify-content-start" href="blog-details.html"> Read More +</a>
+                        <a class="btn-blog-readmore justify-content-start" href="news/<?php echo $news['url']?>.html" title="<?php echo $news['voce_menu']?>"> Scopri di più +</a>
                     </div>
                 </div>
-                <!-- single blog area end -->
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                <!-- single blog area start -->
-                <div class="signle-blog-style-one">
-                    <a href="blog-details.html" class="thumbnail">
-                        <img src="assets/images/blog/02.jpg" alt="blog">
-                        <span class="tag">Architecture</span>
-                    </a>
-                    <div class="inner-content">
-                        <a href="blog-details.html">
-                            <h5 class="title">
-                                The Retro Outdoor Furniture Set
-                                That’s Like Grandma’s—But Better
-                            </h5>
-                        </a>
-                        <a class="btn-blog-readmore justify-content-start" href="blog-details.html"> Read More +</a>
-                    </div>
-                </div>
-                <!-- single blog area end -->
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                <!-- single blog area start -->
-                <div class="signle-blog-style-one">
-                    <a href="blog-details.html" class="thumbnail">
-                        <img src="assets/images/blog/03.jpg" alt="blog">
-                        <span class="tag">Architecture</span>
-                    </a>
-                    <div class="inner-content">
-                        <a href="blog-details.html">
-                            <h5 class="title">
-                                The Retro Outdoor Furniture Set
-                                That’s Like Grandma’s—But Better
-                            </h5>
-                        </a>
-                        <a class="btn-blog-readmore justify-content-start" href="blog-details.html"> Read More +</a>
-                    </div>
-                </div>
-                <!-- single blog area end -->
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                <!-- single blog area start -->
-                <div class="signle-blog-style-one">
-                    <a href="blog-details.html" class="thumbnail">
-                        <img src="assets/images/blog/22.jpg" alt="blog">
-                        <span class="tag">Architecture</span>
-                    </a>
-                    <div class="inner-content">
-                        <a href="blog-details.html">
-                            <h5 class="title">
-                                The Retro Outdoor Furniture Set
-                                That’s Like Grandma’s—But Better
-                            </h5>
-                        </a>
-                        <a class="btn-blog-readmore justify-content-start" href="blog-details.html"> Read More +</a>
-                    </div>
-                </div>
-                <!-- single blog area end -->
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                <!-- single blog area start -->
-                <div class="signle-blog-style-one">
-                    <a href="blog-details.html" class="thumbnail">
-                        <img src="assets/images/blog/23.jpg" alt="blog">
-                        <span class="tag">Architecture</span>
-                    </a>
-                    <div class="inner-content">
-                        <a href="blog-details.html">
-                            <h5 class="title">
-                                The Retro Outdoor Furniture Set
-                                That’s Like Grandma’s—But Better
-                            </h5>
-                        </a>
-                        <a class="btn-blog-readmore justify-content-start" href="blog-details.html"> Read More +</a>
-                    </div>
-                </div>
-                <!-- single blog area end -->
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                <!-- single blog area start -->
-                <div class="signle-blog-style-one">
-                    <a href="blog-details.html" class="thumbnail">
-                        <img src="assets/images/blog/24.jpg" alt="blog">
-                        <span class="tag">Architecture</span>
-                    </a>
-                    <div class="inner-content">
-                        <a href="blog-details.html">
-                            <h5 class="title">
-                                The Retro Outdoor Furniture Set
-                                That’s Like Grandma’s—But Better
-                            </h5>
-                        </a>
-                        <a class="btn-blog-readmore justify-content-start" href="blog-details.html"> Read More +</a>
-                    </div>
-                </div>
-                <!-- single blog area end -->
-            </div>
+            <?php } ?>
+
         </div>
     </div>
 </div>
