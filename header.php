@@ -39,7 +39,7 @@
                         <a href="javascript:;" class="rts-btn btn-border">Antiche cantine</a>
                         <ul class="submenu">
                             <li class="lim"><a class="sdm-main" href="blog.html">Progetto</a></li>
-                            <li class="lim"><a class="sdm-main last" href="blog.html">News</a></li>
+                            <li class="lim"><a class="sdm-main last" href="news.html">News</a></li>
                         </ul>
                     </li>
                 </ul>

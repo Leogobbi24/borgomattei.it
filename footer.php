@@ -127,7 +127,7 @@
                     <li class="mobile-divider"><a href="contatti.html">Dove siamo</a></li>
                     <li><a href="javascript:;">Antiche cantine</a></li>
                     <li><a href="javascript:;">Progetto</a></li>
-                    <li><a href="javascript:;">News</a></li>
+                    <li><a href="news.html">News</a></li>
                 </ul>
             </nav>
 
