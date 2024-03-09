@@ -43,7 +43,7 @@ if(!$result || $result->num_rows==0){
     </div>
 </div>
 
-<div class="rts-blog-area rts-section-gap">
+<div class="rts-blog-area rts-section-gap ptop-40 pbot-80">
     <div class="container">
         <div class="row g-24 mt--30">
 
