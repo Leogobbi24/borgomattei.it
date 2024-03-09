@@ -13,7 +13,7 @@ if(!$result || $result->num_rows==0){
 	$news=$result->fetch_array(MYSQLI_ASSOC);
 ?>
 
-<div class="rts-blog-details-area rts-section-gap">
+<div class="rts-blog-details-area rts-section-gap ptop-80 pbot-80">
     <div class="container">
         <div class="row">
             <div class="col-xl-8 offset-xl-2 col-lg-8 offset-lg-2 col-md-12 col-sm-12 col-12">
