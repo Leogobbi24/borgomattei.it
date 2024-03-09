@@ -206,6 +206,10 @@ p.disc b{
 .rts-project-area{
     padding-top:120px;
 }
+.signle-blog-style-one .inner-content .title {
+    padding-bottom: 20px;
+    margin-bottom: 12px;
+}
 @media only screen and (max-width: 1199px){
     .nav-area-center nav ul {
         gap: 20px;
