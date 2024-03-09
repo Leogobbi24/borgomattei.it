@@ -37,31 +37,31 @@ if(!$result || $result->num_rows==0){
 				                    <div class="image" style="background-image:url('../assets/images/upload/<?php echo $news['immagine2']?>');"></div>
 				                </a>
 				            </div>
-				            <?php if($news['immagine3']){ ?>
+				            <?php }if($news['immagine3']){ ?>
 				            <div class="col-lg-6 col-6">
 				                <a href="../assets/images/upload/<?php echo $news['immagine3']?>">
 				                    <div class="image" style="background-image:url('../assets/images/upload/<?php echo $news['immagine3']?>');"></div>
 				                </a>
 				            </div>
-				            <?php if($news['immagine4']){ ?>
+				            <?php }if($news['immagine4']){ ?>
 				            <div class="col-lg-6 col-6">
 				                <a href="../assets/images/upload/<?php echo $news['immagine4']?>">
 				                    <div class="image" style="background-image:url('../assets/images/upload/<?php echo $news['immagine4']?>');"></div>
 				                </a>
 				            </div>
-				            <?php if($news['immagine5']){ ?>
+				            <?php }if($news['immagine5']){ ?>
 				            <div class="col-lg-6 col-6">
 				                <a href="../assets/images/upload/<?php echo $news['immagine5']?>">
 				                    <div class="image" style="background-image:url('../assets/images/upload/<?php echo $news['immagine5']?>');"></div>
 				                </a>
 				            </div>
-				            <?php if($news['immagine6']){ ?>
+				            <?php }if($news['immagine6']){ ?>
 				            <div class="col-lg-6 col-6">
 				                <a href="../assets/images/upload/<?php echo $news['immagine6']?>">
 				                    <div class="image" style="background-image:url('../assets/images/upload/<?php echo $news['immagine6']?>');"></div>
 				                </a>
 				            </div>
-				            <?php if($news['immagine7']){ ?>
+				            <?php }if($news['immagine7']){ ?>
 				            <div class="col-lg-6 col-6">
 				                <a href="../assets/images/upload/<?php echo $news['immagine7']?>">
 				                    <div class="image" style="background-image:url('../assets/images/upload/<?php echo $news['immagine7']?>');"></div>
