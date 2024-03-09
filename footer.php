@@ -2,7 +2,7 @@
     <div class="rts-footer-area bg_image">
         <div class="container">
             <div class="row ptb--100 ptb_sm--60">
-                <div class="col-lg-4 col-6">
+                <div class="col-lg-4 col-12">
                     <div class="single-footer-wized">
                         <div class="menu-links-area">
                             <h6 class="title">Seguici sui Social</h6>
@@ -38,7 +38,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-6">
+                <div class="col-lg-4 col-12">
                     <div class="single-footer-wized">
                         <div class="menu-links-area">
                             <h6 class="title">Ospitalità - Servizi - Matrimoni - Eventi</h6>
@@ -65,7 +65,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-6">
+                <div class="col-lg-4 col-12">
                     <div class="single-footer-wized">
                         <div class="menu-links-area">
                             <h6 class="title">Antiche Cantine</h6>
