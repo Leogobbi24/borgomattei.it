@@ -41,7 +41,7 @@
                 <div class="col-lg-4 col-12">
                     <div class="single-footer-wized">
                         <div class="menu-links-area">
-                            <h6 class="title">Ospitalità - Servizi - Matrimoni - Eventi</h6>
+                            <h6 class="title">Ospitalità<br>Servizi&Attività<br>Matrimoni&Eventi</h6>
                             <div class="contact-information-1">
                                 <div class="single-contact-info">
                                     <div class="icon">
@@ -49,7 +49,6 @@
                                     </div>
                                     <div class="information">
                                         <a href="Tel:3492601843">349 260 1843</a>
-                                        <span class="support">Giulio del Gallo</span>
                                     </div>
                                 </div>
                                 <div class="single-contact-info">
@@ -68,7 +67,7 @@
                 <div class="col-lg-4 col-12">
                     <div class="single-footer-wized">
                         <div class="menu-links-area">
-                            <h6 class="title">Antiche Cantine</h6>
+                            <h6 class="title">Antiche cantine<br>Progetto PNRR</h6>
                             <div class="contact-information-1">
                                 <div class="single-contact-info">
                                     <div class="icon">
@@ -76,7 +75,6 @@
                                     </div>
                                     <div class="information">
                                         <a href="Tel:339 132 5639">339 132 5639</a>
-                                        <span class="support">Alessandro Mercanti</span>
                                     </div>
                                 </div>
                                 <div class="single-contact-info">
