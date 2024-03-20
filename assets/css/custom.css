@@ -213,6 +213,17 @@ p.disc b{
 .logo img{
     height: 60px;
 }
+.pnrr-credits img {
+    max-width: 150px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.pnrr-credits {
+    padding: 60px 0px;
+    font-size: 14px;
+    line-height: 20px;
+}
 @media only screen and (max-width: 1199px){
     .nav-area-center nav ul {
         gap: 20px;
@@ -283,5 +294,8 @@ p.disc b{
         padding-bottom: 10px !important;
         margin-bottom: 10px !important;
         border-bottom: 1px solid #7D7D7D;
+    }
+    .rts-header-style-one .logo img {
+        max-width: 100%;
     }
 }

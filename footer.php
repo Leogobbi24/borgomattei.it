@@ -123,8 +123,8 @@
                     <li><a href="servizi.html">Servizi&Attività</a></li>
                     <li><a href="matrimoni.html">Matrimoni&Eventi</a></li>
                     <li class="mobile-divider"><a href="contatti.html">Dove siamo</a></li>
-                    <li><a href="javascript:;">Antiche cantine</a></li>
-                    <li><a href="javascript:;">Progetto</a></li>
+                    <li><a href="antiche-cantine.html">Antiche cantine</a></li>
+                    <li><a href="progetto.html">Progetto</a></li>
                     <li><a href="news.html">News</a></li>
                 </ul>
             </nav>
