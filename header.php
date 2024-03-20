@@ -6,15 +6,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Borgo Mattei - Relax nel Parco dei Castelli Romani</title>
-    <link rel="shortcut icon" type="image/x-icon" href="<?php echo $path?>assets/images/fav.png">
+    <link rel="shortcut icon" type="image/x-icon" href="<?php echo $path?>assets/images/favicon.ico">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/plugins/fontawesome-6.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/plugins/swiper.min.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/plugins/magnific-popup.min.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/vendor/magnific-popup.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/vendor/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/vendor/metismenu.css">
-    <link rel="stylesheet" href="<?php echo $path?>assets/css/style.css">
-    <link rel="stylesheet" href="<?php echo $path?>assets/css/custom.css?6">
+    <link rel="stylesheet" href="<?php echo $path?>assets/css/style.css?2">
+    <link rel="stylesheet" href="<?php echo $path?>assets/css/custom.css?7">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/utility.min.css">
 </head>
 
@@ -23,7 +23,7 @@
     <div class="rts-header-style-one header--sticky">
 
         <a href="index.html" class="logo">
-            <img src="<?php echo $path?>assets/images/logo/01.svg" alt="logo-">
+            <img src="<?php echo $path?>assets/images/borgomattei.png" alt="logo-">
         </a>
 
         <div class="nav-area-center">

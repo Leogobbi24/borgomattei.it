@@ -210,6 +210,9 @@ p.disc b{
     padding-bottom: 20px;
     margin-bottom: 12px;
 }
+.logo img{
+    height: 60px;
+}
 @media only screen and (max-width: 1199px){
     .nav-area-center nav ul {
         gap: 20px;

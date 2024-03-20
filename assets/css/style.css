@@ -45,14 +45,14 @@
 44.terms & condition
 45.contact
 46.Preloader
-
+5a1a1e
 ========================================*/
 /* Default  */
 @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Overpass:wght@100;200;300;400;500;600;700;800;900&display=swap");
 @import url("https://db.onlinewebfonts.com/c/41ef03052040400ec0acd500990fdc97?family=URW+Imperial+W01+Regular");
 :root {
-  --color-primary: #B19777;
+  --color-primary: #5a1a1e;
   --color-secondary: #1F1F25;
   --color-body: #7D7D7D;
   --color-heading-1: #30373E;

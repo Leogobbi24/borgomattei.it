@@ -29,10 +29,11 @@
                     </div>
                     <div class="row product-details-right-one">
                         <div class="col-md-12">
-                            <h3 class="title-main-s">Castelli Romani: il giardino di Roma</h3>
+                            <h3 class="title-main-s">Castelli Romani</h3>
                             <p class="disc">
-                                Borghi antichi, ville signorili, castelli medievali e resti archeologici animano il Parco Regionale dei Castelli Romani, in provincia di Roma. Disteso sui colli Albani, in passato era il luogo di villeggiatura prediletto dalle famiglie gentilizie della capitale e dai papi. Oggi con i suoi 9500 ettari di territorio protetto, ospita numerose specie animali, come tassi, martore, falchi pellegrini, istrici , e soprattutto il lupo, che ricopre un ruolo fondamentale in questo ecosistema.<br><br>
-                                Il territorio di quelli che sono popolarmente e storicamente conosciuti come “Castelli Romani” si è formato a seguito dell'intensa attività eruttiva dell’antico Vulcano Laziale, che diede origine in più fasi ai Campi di Annibale, Monte Cavo, al Colle Iano, nonché ai diversi laghi vulcanici, fra i quali ancora oggi ammiriamo il lago Albano e il lago di Nemi, mentre altri prosciugatisi, costituiscono oggi fertili valli agricole dove si producono alcuni dei migliori vini del Lazio.
+                                Borgo Mattei è il cuore di Tenuta Sant’Anna: azienda agrituristica composta da quasi 20 ettari di terreni coltivati ad ulivo e soprattutto a vite che da sempre costituisce il fulcro della vocazione agricola del territorio dei Castelli Romani. Si tratta prevalentemente di vitigni a bacca bianca che rientrano nel Frascati a denominazione di origine controllata: Malvasia di Candia, Trebbiano, Greco bianco.<br><br>
+                                Questi fertili terreni si sono formati a seguito dell'intensa attività eruttiva dell’antico Vulcano Laziale, che diede origine in più fasi ai Campi di Annibale, Monte Cavo, al Colle Iano, nonché ai diversi laghi vulcanici, fra i quali ancora oggi ammiriamo il lago Albano e il lago di Nemi.
+                                Tutta l’area coltivata di tenuta Sant’Anna è visitabile e offre la possibilità di percorrere sentieri in un contesto originale con una vista unica che, raggiungendo il mar Tirreno, attraversa tutta la città di Roma.
                             </p>
                         </div>
                     </div>
