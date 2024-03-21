@@ -308,4 +308,7 @@ p.disc b{
     .single-footer-wized .contact-information-1 .single-contact-info {
         justify-content: center;
     }
+    .gallery-page-project .gallery .image {
+        height: 250px;
+    }
 }

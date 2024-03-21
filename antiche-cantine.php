@@ -19,25 +19,25 @@
     </div>
 </div>
 
-<div class="service-details-area-start rts-section-gap">
+<div class="service-details-area-start rts-section-gap gallery-page-project">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 mt_md--50 mt_sm--50">
                 <div class="service-details-content-right">
                     <div class="row mt--40 gallery">
                         <div class="col-lg-4 col-12">
-                            <a href="assets/images/contatti.jpg">
-                                <div class="image" style="background-image:url('assets/images/contatti.jpg');"></div>
+                            <a href="assets/images/cantine1.jpg">
+                                <div class="image" style="background-image:url('assets/images/cantine1.jpg');"></div>
                             </a>
                         </div>
                         <div class="col-lg-4 col-12">
-                            <a href="assets/images/contatti.jpg">
-                                <div class="image" style="background-image:url('assets/images/contatti.jpg');"></div>
+                            <a href="assets/images/cantine2.jpg">
+                                <div class="image" style="background-image:url('assets/images/cantine2.jpg');"></div>
                             </a>
                         </div>
                         <div class="col-lg-4 col-12">
-                            <a href="assets/images/contatti.jpg">
-                                <div class="image" style="background-image:url('assets/images/contatti.jpg');"></div>
+                            <a href="assets/images/cantine3.jpg">
+                                <div class="image" style="background-image:url('assets/images/cantine3.jpg');"></div>
                             </a>
                         </div>
                     </div>

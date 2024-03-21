@@ -19,13 +19,27 @@
     </div>
 </div>
 
-<div class="service-details-area-start rts-section-gap">
+<div class="service-details-area-start rts-section-gap gallery-page-project">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 mt_md--50 mt_sm--50">
                 <div class="service-details-content-right">
-                    <div class="large-image" id="villa">
-                        <img src="assets/images/contatti.jpg" alt="Castelli Romani">
+                    <div class="row mt--40 gallery">
+                        <div class="col-lg-4 col-12">
+                            <a href="assets/images/progetto1.png">
+                                <div class="image" style="background-image:url('assets/images/progetto1.png');"></div>
+                            </a>
+                        </div>
+                        <div class="col-lg-4 col-12">
+                            <a href="assets/images/progetto2.png">
+                                <div class="image" style="background-image:url('assets/images/progetto2.png');"></div>
+                            </a>
+                        </div>
+                        <div class="col-lg-4 col-12">
+                            <a href="assets/images/progetto3.png">
+                                <div class="image" style="background-image:url('assets/images/progetto3.png');"></div>
+                            </a>
+                        </div>
                     </div>
                     <div class="row product-details-right-one">
                         <div class="col-md-12">
