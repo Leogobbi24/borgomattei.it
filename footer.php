@@ -63,7 +63,7 @@
                 <div class="col-lg-4 col-12">
                     <div class="single-footer-wized">
                         <div class="menu-links-area">
-                            <h6 class="title">Antiche cantine<br>Progetto PNRR</h6>
+                            <h6 class="title">Antiche Cantine<br>Progetto PNRR</h6>
                             <div class="contact-information-1">
                                 <div class="single-contact-info">
                                     <div class="icon">
@@ -118,7 +118,7 @@
                     <li><a href="servizi.html">Servizi&Attività</a></li>
                     <li><a href="matrimoni.html">Matrimoni&Eventi</a></li>
                     <li class="mobile-divider"><a href="contatti.html">Dove siamo</a></li>
-                    <li><a href="antiche-cantine.html">Antiche cantine</a></li>
+                    <li><a href="antiche-cantine.html">Antiche Cantine</a></li>
                     <li><a href="progetto.html">Progetto</a></li>
                     <li><a href="news.html">News</a></li>
                 </ul>

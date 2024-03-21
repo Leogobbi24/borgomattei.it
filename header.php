@@ -36,7 +36,7 @@
                     <li><a href="matrimoni.html">Matrimoni&Eventi</a></li>
                     <li><a href="contatti.html">Dove siamo</a></li>
                     <li class="has-dropdown evidence">
-                        <a href="antiche-cantine.html" class="rts-btn btn-border">Antiche cantine</a>
+                        <a href="antiche-cantine.html" class="rts-btn btn-border">Antiche Cantine</a>
                         <ul class="submenu">
                             <li class="lim"><a class="sdm-main" href="progetto.html">Progetto</a></li>
                             <li class="lim"><a class="sdm-main last" href="news.html">News</a></li>
