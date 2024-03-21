@@ -13,7 +13,6 @@
                                     </div>
                                     <div class="information">
                                         <a href="https://www.facebook.com/profile.php?id=61556347340229&sfnsn=scwspwa" target="_blank">Borgo Mattei</a>
-                                        <span class="support">Facebook</span>
                                     </div>
                                 </div>
                                 <div class="single-contact-info">
@@ -22,7 +21,6 @@
                                     </div>
                                     <div class="information">
                                         <a href="https://www.instagram.com/borgo_mattei?igsh=MTM2dHVzM3ptN200dQ==" target="_blank">@borgo_mattei</a>
-                                        <span class="support">Instagram</span>
                                     </div>
                                 </div>
                                 <div class="single-contact-info">
@@ -31,7 +29,6 @@
                                     </div>
                                     <div class="information">
                                         <a href="https://lc.cx/0dj3j-" target="_blank">Newsletter</a>
-                                        <span class="support"><a href="https://lc.cx/0dj3j-" target="_blank">Iscriviti ora</a></span>
                                     </div>
                                 </div>
                             </div>
@@ -57,7 +54,6 @@
                                     </div>
                                     <div class="information">
                                         <a href="mailto:info@borgomattei.it">info@borgomattei.it</a>
-                                        <span class="support">Giulio del Gallo</span>
                                     </div>
                                 </div>
                             </div>
@@ -83,7 +79,6 @@
                                     </div>
                                     <div class="information">
                                         <a href="mailto:antichecantine@borgomattei.it">antichecantine@borgomattei.it</a>
-                                        <span class="support">Alessandro Mercanti</span>
                                     </div>
                                 </div>
                             </div>

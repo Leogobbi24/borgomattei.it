@@ -298,4 +298,14 @@ p.disc b{
     .rts-header-style-one .logo img {
         max-width: 100%;
     }
+    .pnrr-credits img{
+        margin-bottom: 30px;
+        margin-right: 10px;
+    }
+    .rts-footer-area{
+        text-align: center;
+    }
+    .single-footer-wized .contact-information-1 .single-contact-info {
+        justify-content: center;
+    }
 }

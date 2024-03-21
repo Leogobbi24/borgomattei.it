@@ -11,7 +11,7 @@
                     </div>
                     <div class="bottom-title">
                         <h1 class="title">Progetto</h1>
-                        <a href="https://lc.cx/0dj3j-" class="rts-btn btn-primary" target="_blank">Iscriviti alla Newsletter</a>
+                        <a href="antiche-cantine.html" class="rts-btn btn-primary">Scopri le Antiche Cantine</a>
                     </div>
                 </div>
             </div>
