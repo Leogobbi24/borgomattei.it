@@ -58,7 +58,7 @@
                         </div>
                     </div>
                     <p class="disc mb--25 mt--25 mt_sm--10">
-                        Il Borgo sorge lungo via di Sant’Anna che collega da secoli l'Abbazia di San Nilo di Grottaferrata con Marino. Ricco di testimonianze romane e medievali, deve il suo nome al cardinale Alessandro Mattei (1744-1820). Nei secoli si susseguono restauri e cambi di proprietà, mantenendo sempre inalterata la vocazione vitivinicola. Oggi la famiglia Negro-Mercanti apre al pubblico Borgo Mattei: <b>un luogo unico, immerso nei paesaggi bucolici dei Castelli Romani e con una vista indimenticabile sulla Città Eterna!</b>
+                        Cuore di una moderna azienda agrituristica composta da quasi 20 ettari di terreni coltivati ad ulivo e vite, il Borgo sorge lungo via di Sant’Anna che collega da secoli l'Abbazia di San Nilo di Grottaferrata con Marino. Ricco di testimonianze romane e medievali, deve il suo nome al cardinale Alessandro Mattei (1744-1820). Nei secoli si susseguono restauri e cambi di proprietà, mantenendo sempre inalterata la vocazione vitivinicola. Oggi la famiglia Negro-Mercanti apre al pubblico Borgo Mattei: <b>un luogo unico, immerso nei paesaggi bucolici dei Castelli Romani e con una vista indimenticabile sulla Città Eterna!</b>
                     </p>
                     <a href="storia.html" class="rts-btn btn-border">Scopri la storia</a>
                 </div>

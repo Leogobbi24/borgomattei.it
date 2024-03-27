@@ -224,6 +224,22 @@ p.disc b{
     font-size: 14px;
     line-height: 20px;
 }
+.single-footer-wized .contact-information-1 .single-contact-info .icon {
+    color: #fff;
+}
+a:hover, a:focus, a:active {
+    color: #fff;
+}
+.nav-area-center nav ul li:hover a {
+    color: #fff;
+}
+.has-dropdown .submenu li.lim:hover a.sdm-main {
+    background: #6C8881;
+    color: #fff !important;
+}
+.breadcrumb-area-bg .bread-crumb-area-inner .breadcrumb-top a {
+    color: #30373E;
+}
 @media only screen and (max-width: 1199px){
     .nav-area-center nav ul {
         gap: 20px;
