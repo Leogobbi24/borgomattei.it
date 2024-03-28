@@ -6,7 +6,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Borgo Mattei - Relax nel Parco dei Castelli Romani</title>
-    <link rel="shortcut icon" type="image/x-icon" href="<?php echo $path?>assets/images/favicon2.ico?2">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/plugins/fontawesome-6.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/plugins/swiper.min.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/plugins/magnific-popup.min.css">
