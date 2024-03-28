@@ -20,6 +20,19 @@
 
 <body class="index-one">
 
+    <div class="header-top">
+        <div class="row">
+            <div class="col-md-12 text-right">
+                <a href="index.html" title="Italiano">
+                    <img src="<?php echo $path?>assets/images/it-flag.png" alt="Italiano">
+                </a>
+                <a href="en/index.html" title="English">
+                    <img src="<?php echo $path?>assets/images/en-flag.png" alt="English">
+                </a>
+            </div>
+        </div>
+    </div>
+
     <div class="rts-header-style-one header--sticky">
 
         <a href="index.html" class="logo">

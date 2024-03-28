@@ -1,9 +1,15 @@
 RewriteEngine On
 
-#NEWS
+#EN - NEWS
+RewriteRule ^en/news/(.*).html$ en/news-detail.php?url_news=$1  [L]
+
+#IT - NEWS
 RewriteRule ^news/(.*).html$ news-detail.php?url_news=$1  [L]
 
-##di default pagine .html chiamano il corrispettivo in .php
+##EN - di default pagine .html chiamano il corrispettivo in .php 
+RewriteRule ^en/(.*).html$  en/$1.php [L]
+
+##IT - di default pagine .html chiamano il corrispettivo in .php
 RewriteRule ^(.*).html$  $1.php [L]
 
 ##sitemap.xml chiama sitemap.php
