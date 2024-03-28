@@ -51,7 +51,7 @@ if(!$result || $result->num_rows==0){
             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                 <div class="signle-blog-style-one">
                     <a href="news/<?php echo $news['url']?>.html" class="thumbnail" title="<?php echo $news['voce_menu_en']?>">
-                        <div class="pq-post-media" style="height:350px;background-image: url('assets/images/upload/<?php echo $news['immagine']?>');background-size: cover;background-position: center center;"></div>
+                        <div class="pq-post-media" style="height:350px;background-image: url('../assets/images/upload/<?php echo $news['immagine']?>');background-size: cover;background-position: center center;"></div>
                     </a>
                     <div class="inner-content">
                         <a href="news/<?php echo $news['url']?>.html" title="<?php echo $news['voce_menu_en']?>">
