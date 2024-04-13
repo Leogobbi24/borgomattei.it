@@ -7,11 +7,11 @@
                 <div class="bread-crumb-area-inner">
                     <div class="breadcrumb-top">
                         <a href="index.html">Home</a> /
-                        <a class="active" href="progetto.html">Progetto</a>
+                        <a class="active" href="progetto.html">Project</a>
                     </div>
                     <div class="bottom-title">
-                        <h1 class="title">Progetto</h1>
-                        <a href="antiche-cantine.html" class="rts-btn btn-primary">Scopri le Antiche Cantine</a>
+                        <h1 class="title">Project</h1>
+                        <a href="antiche-cantine.html" class="rts-btn btn-primary">Discover the Ancient Cellars</a>
                     </div>
                 </div>
             </div>
@@ -43,22 +43,22 @@
                     </div>
                     <div class="row product-details-right-one">
                         <div class="col-md-12">
-                            <h3 class="title-main-s">Progetto</h3>
+                            <h3 class="title-main-s">Project</h3>
                             <p class="disc mbot-0">
-                                Progettazione: <b><a href="https://www.leonoriarchitetti.it" target="_blank">Francesca e Mario Leonori</a></b><br>
-                                Promozione: <b><a href="https://www.facebook.com/profile.php?id=100095202801955&locale=it_IT" target="_blank">Alessandro Lazzaro</a></b><br><br>
-                                <b>Obiettivi:</b> Il progetto mira a offrire visite ed esperienze immersive che comprendono percorsi nei vigneti con spiegazioni delle fasi di coltivazione della vite, visite alle strutture ipogee della cantina e degustazione guidata dei vini locali. L'edificio in superficie servirà da area di accoglienza per presentare il percorso di visita e condurre l’ospite attraverso le tradizioni antiche della produzione vinicola dei Castelli Romani.<br><br>
-                                <b>Fasi operative:</b>
+                                Project: <b><a href="https://www.leonoriarchitetti.it" target="_blank">Francesca e Mario Leonori</a></b><br>
+                                Promotion: <b><a href="https://www.facebook.com/profile.php?id=100095202801955&locale=it_IT" target="_blank">Alessandro Lazzaro</a></b><br><br>
+                                <b>Objectives:</b> The project aims to offer immersive visits and experiences, including tours through the vineyards with explanations of the grape cultivation phases, visits to the underground structures of the cellar, and guided tastings of local wines. The above-ground building will serve as a welcoming area to introduce the visitors to the tour and guide them through the ancient traditions of winemaking in the Castelli Romani.<br><br>
+                                <b>Operational Phases:</b>
                             </p>
                                 <ul>
-                                    <li>Mappatura dettagliata dell'area sotterranea.</li>
-                                    <li>Bonifica completa della struttura ipogea con rimozione dei detriti.</li>
-                                    <li>Consolidamento e messa in sicurezza di pareti e soffitti della cantina.</li>
-                                    <li>Installazione di sistema di illuminazione e segnalazione per la fruibilità pubblica.</li>
-                                    <li>Completamento dei lavori nel fabbricato in superficie, che svolgerà la funzione di introduzione al percorso sotterraneo e illustrazione delle modalità di coltivazione della vite.</li>
+                                    <li>Detailed mapping of the underground area.</li>
+                                    <li>Complete reclamation of the hypogeal structure with debris removal.</li>
+                                    <li>Consolidation and securing of cellar walls and ceilings.</li>
+                                    <li>Installation of lighting and signaling systems for public use.</li>
+                                    <li>Completion of work in the above-ground building, which will serve as an introduction to the underground tour and illustrate grape cultivation methods.</li>
                                 </ul>
                             <p class="disc mbot-0">
-                                <b>Lavori previsti:</b> Il progetto di restauro si impegna a conservare integralmente gli spazi delle grotte, intervenendo con rispetto e non invasività per preservare la natura originale di questi luoghi. L'intervento si limita alla messa in sicurezza e alla valorizzazione, evitando qualsiasi alterazione delle superfici esistenti. Per l'area in superficie, si prevede il ripristino degli elementi danneggiati e la realizzazione di una nuova copertura simile a quella originale. Per facilitare l'accoglienza dei visitatori è prevista la realizzazione di un nuovo servizio igienico e l’uso di arredi modulabili per favorire la polifunzionalità dello spazio. Una nuova pavimentazione, adatta anche a utenti diversamente abili, sarà realizzata per consentire l'accesso alle grotte. Tutti i materiali utilizzati saranno naturali, in sintonia con l'ambiente circostante.
+                                <b>Planned Works:</b> The restoration project commits to preserving the cave spaces entirely, intervening with respect and non-invasiveness to maintain the original nature of these places. The intervention aims to secure and enhance the area, avoiding any alteration of existing surfaces. For the above-ground area, restoration of damaged elements is planned, and a new covering similar to the original one will be implemented. To facilitate visitor reception, a new restroom will be constructed, and modular furnishings will be used to promote the multifunctionality of the space. A new flooring, also suitable for differently-abled users, will be installed to enable access to the caves. All materials used will be natural, in harmony with the surrounding environment.
                             </p>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                 <img src="assets/images/regione-lazio.png" class="veneto">
             </div>
             <div class="col-md-12 text-center">
-                Finanziato tramite Avviso Pubblico per la presentazione di proposte di intervento per il restauro e la valorizzazione del patrimonio architettonico e paesaggistico rurale - da finanziare nell’ambito del PNRR [M1.C3 – Misura 2 "Rigenerazione di piccoli siti culturali, patrimonio culturale, religioso e rurale" - Investimento 2.2], approvato con D.D. n. G04542 del 13 aprile 2022, finanziato dall’Unione europea - NextGenerationEU e gestito dal Ministero della Cultura; Soggetto Attuatore Regione Lazio".
+                Funded through Public Notice for the submission of proposals for the restoration and enhancement of rural architectural and landscape heritage - to be financed under the PNRR [M1.C3 - Measure 2 "Regeneration of small cultural, cultural, religious, and rural sites" - Investment 2.2], approved by D.D. No. G04542 of April 13, 2022, financed by the European Union - NextGenerationEU and managed by the Ministry of Culture; Implementing Body Lazio Region.
             </div>
         </div>
     </div>

@@ -24,6 +24,21 @@ if(!$result || $result->num_rows==0){
         </div>
     </div>
 </div>
+<div class="breadcrumb-area-bg visit-section pnrr-credits">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <img src="assets/images/nextgeneu.png">
+                <img src="assets/images/ministero-cultura.png">
+                <img src="assets/images/italia-domani.png">
+                <img src="assets/images/regione-lazio.png" class="veneto">
+            </div>
+            <div class="col-md-12 text-center">
+                Finanziato tramite Avviso Pubblico per la presentazione di proposte di intervento per il restauro e la valorizzazione del patrimonio architettonico e paesaggistico rurale - da finanziare nell’ambito del PNRR [M1.C3 – Misura 2 "Rigenerazione di piccoli siti culturali, patrimonio culturale, religioso e rurale" - Investimento 2.2], approvato con D.D. n. G04542 del 13 aprile 2022, finanziato dall’Unione europea - NextGenerationEU e gestito dal Ministero della Cultura; Soggetto Attuatore Regione Lazio".
+            </div>
+        </div>
+    </div>
+</div>
 <?php }else{ ?>
 <div class="breadcrumb-area-bg">
     <div class="container">
@@ -63,6 +78,21 @@ if(!$result || $result->num_rows==0){
             </div>
             <?php } ?>
 
+        </div>
+    </div>
+</div>
+<div class="breadcrumb-area-bg visit-section pnrr-credits">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <img src="assets/images/nextgeneu.png">
+                <img src="assets/images/ministero-cultura.png">
+                <img src="assets/images/italia-domani.png">
+                <img src="assets/images/regione-lazio.png" class="veneto">
+            </div>
+            <div class="col-md-12 text-center">
+                Finanziato tramite Avviso Pubblico per la presentazione di proposte di intervento per il restauro e la valorizzazione del patrimonio architettonico e paesaggistico rurale - da finanziare nell’ambito del PNRR [M1.C3 – Misura 2 "Rigenerazione di piccoli siti culturali, patrimonio culturale, religioso e rurale" - Investimento 2.2], approvato con D.D. n. G04542 del 13 aprile 2022, finanziato dall’Unione europea - NextGenerationEU e gestito dal Ministero della Cultura; Soggetto Attuatore Regione Lazio".
+            </div>
         </div>
     </div>
 </div>

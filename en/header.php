@@ -43,14 +43,14 @@
                 <ul class="parent-ul">
                     <li><a href="index.html">Home</a></li>
                     <li><a href="storia.html">History</a></li>
-                    <li><a href="ospitalita.html">Ospitalità</a></li>
-                    <li><a href="servizi.html">Servizi&Attività</a></li>
-                    <li><a href="matrimoni.html">Matrimoni&Eventi</a></li>
-                    <li><a href="contatti.html">Dove siamo</a></li>
+                    <li><a href="ospitalita.html">Hospitality</a></li>
+                    <li><a href="servizi.html">Services&Activities</a></li>
+                    <li><a href="matrimoni.html">Weddings&Events</a></li>
+                    <li><a href="contatti.html">How to find us</a></li>
                     <li class="has-dropdown evidence">
-                        <a href="antiche-cantine.html" class="rts-btn btn-border">Antiche Cantine</a>
+                        <a href="antiche-cantine.html" class="rts-btn btn-border">Ancient cellars</a>
                         <ul class="submenu">
-                            <li class="lim"><a class="sdm-main" href="progetto.html">Progetto</a></li>
+                            <li class="lim"><a class="sdm-main" href="progetto.html">Project</a></li>
                             <li class="lim"><a class="sdm-main last" href="news.html">News</a></li>
                         </ul>
                     </li>

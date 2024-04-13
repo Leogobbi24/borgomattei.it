@@ -5,7 +5,7 @@
                 <div class="col-lg-4 col-12">
                     <div class="single-footer-wized">
                         <div class="menu-links-area">
-                            <h6 class="title">Seguici sui Social</h6>
+                            <h6 class="title">Follow our Social</h6>
                             <div class="contact-information-1">
                                 <div class="single-contact-info">
                                     <div class="icon">
@@ -38,7 +38,7 @@
                 <div class="col-lg-4 col-12">
                     <div class="single-footer-wized">
                         <div class="menu-links-area">
-                            <h6 class="title">Ospitalità<br>Servizi&Attività<br>Matrimoni&Eventi</h6>
+                            <h6 class="title">Hospitality<br>Services&Activities<br>Weddings&Events</h6>
                             <div class="contact-information-1">
                                 <div class="single-contact-info">
                                     <div class="icon">
@@ -63,7 +63,7 @@
                 <div class="col-lg-4 col-12">
                     <div class="single-footer-wized">
                         <div class="menu-links-area">
-                            <h6 class="title">Antiche Cantine<br>Progetto PNRR</h6>
+                            <h6 class="title">Ancient cellars<br>PNRR Project</h6>
                             <div class="contact-information-1">
                                 <div class="single-contact-info">
                                     <div class="icon">
@@ -92,7 +92,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="copyright-area-main-wrapper-one">
-                            <p class="text-center">Copyright @<script>document.write(new Date().getFullYear())</script> Tenuta Sant'Anna srl | IT17109341002 | <a href="https://www.google.com/maps/dir//Borgo+Mattei,+Via+di+Sant'Anna,+5,+00195+Grottaferrata+RM/@42.9937743,10.5376205,8z/data=!4m8!4m7!1m0!1m5!1m1!1s0x132587f325efd973:0x71c6b8c6845d269b!2m2!1d12.6599869!2d41.779009?entry=ttu" target="_blank">Via di Sant’Anna 5 - Grottaferrata - RM</a><br><small><a href="https://www.facebook.com/profile.php?id=100095202801955&locale=it_IT" target="_blank">creato da: Alessandro Lazzaro</a></small></p>
+                            <p class="text-center">Copyright @<script>document.write(new Date().getFullYear())</script> Tenuta Sant'Anna srl | IT17109341002 | <a href="https://www.google.com/maps/dir//Borgo+Mattei,+Via+di+Sant'Anna,+5,+00195+Grottaferrata+RM/@42.9937743,10.5376205,8z/data=!4m8!4m7!1m0!1m5!1m1!1s0x132587f325efd973:0x71c6b8c6845d269b!2m2!1d12.6599869!2d41.779009?entry=ttu" target="_blank">Via di Sant’Anna 5 - Grottaferrata - RM</a><br><small><a href="https://www.facebook.com/profile.php?id=100095202801955&locale=it_IT" target="_blank">created by: Alessandro Lazzaro</a></small></p>
                         </div>
                     </div>
                 </div>
@@ -113,13 +113,13 @@
             <nav class="nav-main mainmenu-nav mt--30">
                 <ul class="mainmenu metismenu" id="mobile-menu-active">
                     <li><a href="index.html">Home</a></li>
-                    <li><a href="storia.html">Storia</a></li>
-                    <li><a href="ospitalita.html">Ospitalità</a></li>
-                    <li><a href="servizi.html">Servizi&Attività</a></li>
-                    <li><a href="matrimoni.html">Matrimoni&Eventi</a></li>
-                    <li class="mobile-divider"><a href="contatti.html">Dove siamo</a></li>
-                    <li><a href="antiche-cantine.html">Antiche Cantine</a></li>
-                    <li><a href="progetto.html">Progetto</a></li>
+                    <li><a href="storia.html">History</a></li>
+                    <li><a href="ospitalita.html">Hospitality</a></li>
+                    <li><a href="servizi.html">Services&Activities</a></li>
+                    <li><a href="matrimoni.html">Weddings&Events</a></li>
+                    <li class="mobile-divider"><a href="contatti.html">How to find us</a></li>
+                    <li><a href="antiche-cantine.html">Ancient cellars</a></li>
+                    <li><a href="progetto.html">Project</a></li>
                     <li><a href="news.html">News</a></li>
                 </ul>
             </nav>

@@ -24,6 +24,21 @@ if(!$result || $result->num_rows==0){
         </div>
     </div>
 </div>
+<div class="breadcrumb-area-bg visit-section pnrr-credits">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <img src="assets/images/nextgeneu.png">
+                <img src="assets/images/ministero-cultura.png">
+                <img src="assets/images/italia-domani.png">
+                <img src="assets/images/regione-lazio.png" class="veneto">
+            </div>
+            <div class="col-md-12 text-center">
+                Funded through Public Notice for the submission of proposals for the restoration and enhancement of rural architectural and landscape heritage - to be financed under the PNRR [M1.C3 - Measure 2 "Regeneration of small cultural, cultural, religious, and rural sites" - Investment 2.2], approved by D.D. No. G04542 of April 13, 2022, financed by the European Union - NextGenerationEU and managed by the Ministry of Culture; Implementing Body Lazio Region.
+            </div>
+        </div>
+    </div>
+</div>
 <?php }else{ ?>
 <div class="breadcrumb-area-bg">
     <div class="container">
@@ -63,6 +78,21 @@ if(!$result || $result->num_rows==0){
             </div>
             <?php } ?>
 
+        </div>
+    </div>
+</div>
+<div class="breadcrumb-area-bg visit-section pnrr-credits">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <img src="assets/images/nextgeneu.png">
+                <img src="assets/images/ministero-cultura.png">
+                <img src="assets/images/italia-domani.png">
+                <img src="assets/images/regione-lazio.png" class="veneto">
+            </div>
+            <div class="col-md-12 text-center">
+                Funded through Public Notice for the submission of proposals for the restoration and enhancement of rural architectural and landscape heritage - to be financed under the PNRR [M1.C3 - Measure 2 "Regeneration of small cultural, cultural, religious, and rural sites" - Investment 2.2], approved by D.D. No. G04542 of April 13, 2022, financed by the European Union - NextGenerationEU and managed by the Ministry of Culture; Implementing Body Lazio Region.
+            </div>
         </div>
     </div>
 </div>

@@ -7,11 +7,11 @@
                 <div class="bread-crumb-area-inner">
                     <div class="breadcrumb-top">
                         <a href="index.html">Home</a> /
-                        <a class="active" href="servizi.html">Servizi & Attività</a>
+                        <a class="active" href="servizi.html">Services&Activities</a>
                     </div>
                     <div class="bottom-title">
-                        <h1 class="title">Servizi & Attività</h1>
-                        <a href="mailto:booking@borgomattei.it" class="rts-btn btn-primary">Contattaci</a>
+                        <h1 class="title">Services & Activities</h1>
+                        <a href="mailto:booking@borgomattei.it" class="rts-btn btn-primary">Contact us</a>
                     </div>
                 </div>
             </div>
@@ -27,12 +27,12 @@
                     <div class="title-style-left">
                         <div class="pre-title-area">
                             <img src="assets/images/about/02.png" alt="about">
-                            <span class="pre-title">Servizi su richiesta</span>
+                            <span class="pre-title">Services&Activities</span>
                         </div>
-                        <h2 class="title">Servizi & attività</h2>
+                        <h2 class="title">Services & Activities</h2>
                     </div>
                     <p class="disc">
-                        Una vasta gamma di servizi, attività ed esperienze può essere fornita a Borgo Mattei su richiesta.
+                        A wide range of services, activities, and experiences can be provided at Borgo Mattei upon request.
                     </p>
                 </div>
             </div>
@@ -43,21 +43,21 @@
                 <div class="service-wrapper-list-two">
                     <div class="signgle-service-list-two bg_image">
                         <div class="left">
-                            <h2 class="title">Cuoco privato</h2>
+                            <h2 class="title">Private Chef</h2>
                         </div>
                         <div class="mid-center">
                             <p class="disc">
-                                Un abile chef è fondamentale per un'autentica esperienza italiana. Per pranzi e cene può proporre numerosi menù per incontrare i diversi gusti degli ospiti.
+                                A skilled chef is essential for an authentic Italian experience. For lunches and dinners, they can offer various menus to cater to the diverse tastes of the guests.
                             </p>
                         </div>
                     </div>
                     <div class="signgle-service-list-two bg_image">
                         <div class="left">
-                            <h2 class="title">Trasporti</h2>
+                            <h2 class="title">Transportation</h2>
                         </div>
                         <div class="mid-center">
                             <p class="disc">
-                                Possiamo organizzare trasferimenti privati da e per l'aeroporto, così come da e per il centro città o qualsiasi altra località.
+                                We can arrange private transfers to and from the airport, as well as to and from the city center or any other location.
                             </p>
                         </div>
                     </div>
@@ -67,47 +67,47 @@
                         </div>
                         <div class="mid-center">
                             <p class="disc">
-                                Si possono organizzare visite ai monumenti più importanti ed esperienze fuori dai sentieri battuti. Guide di prim'ordine sono disponibili per visite private su richiesta. E’ possibile prenotare ristoranti, biglietti per eventi o semplicemente ricevere consigli e suggerimenti sulle attrazioni locali non turistiche
+                                We can arrange visits to the most important monuments and experiences off the beaten path. Top-notch guides are available for private tours upon request. It's possible to book restaurants, event tickets, or simply receive advice and suggestions on local non-touristy attractions.
                             </p>
                         </div>
                     </div>
                     <div class="signgle-service-list-two bg_image">
                         <div class="left">
-                            <h2 class="title">Visita alla città di Roma</h2>
+                            <h2 class="title">Visit the city of Rome</h2>
                         </div>
                         <div class="mid-center">
                             <p class="disc">
-                                Scopri il centro della Città Eterna in tutta la sua bellezza. Scendi la scalinata di Piazza di Spagna, attraversa le vie dello shopping, goditi il fascino di Trastevere e senti il sapore della storia nei Fori Romani. Borgo Mattei dista solo 40 minuti in auto dal Colosseo e 50 minuti dalla Città del Vaticano.
+                                Discover the center of the Eternal City in all its beauty. Descend the Spanish Steps, stroll through the shopping streets, enjoy the charm of Trastevere, and savor the taste of history in the Roman Forums. Borgo Mattei is only a 40-minute drive from the Colosseum and 50 minutes from the Vatican City.
                             </p>
                         </div>
                     </div>
                     <div class="signgle-service-list-two bg_image">
                         <div class="left">
-                            <h2 class="title">Escursioni in campagna</h2>
+                            <h2 class="title">Countryside Excursions</h2>
                         </div>
                         <div class="mid-center">
                             <p class="disc">
-                                Da Borgo Mattei si possono fare bellissime escursioni in campagna, camminando o andando in bicicletta lungo la Via Appia verso il centro di Roma si incontrano numerose rovine e mausolei di epoca antica. Si possono organizzare passeggiate a cavallo ed autentiche escursioni agricole con degustazione dei vini tipici dei Castelli Romani.
+                                Borgo Mattei offers beautiful countryside excursions, whether by walking or cycling along the Appian Way towards the center of Rome, where numerous ancient ruins and mausoleums can be found. Horseback rides and authentic agricultural excursions with tastings of typical wines from the Castelli Romani can also be organized.
                             </p>
                         </div>
                     </div>
                     <div class="signgle-service-list-two bg_image">
                         <div class="left">
-                            <h2 class="title">Corso di cucina</h2>
+                            <h2 class="title">Cooking Classes</h2>
                         </div>
                         <div class="mid-center">
                             <p class="disc">
-                                È possibile organizzare lezioni con chef locali per conoscere i veri metodi di cucina italiani.
+                                You can arrange cooking lessons with local chefs to learn authentic Italian cooking methods.
                             </p>
                         </div>
                     </div>
                     <div class="signgle-service-list-two bg_image">
                         <div class="left">
-                            <h2 class="title">Visita alle Antiche Cantine</h2>
+                            <h2 class="title">Visit to the Ancient Cellars</h2>
                         </div>
                         <div class="mid-center">
                             <p class="disc">
-                                Da primavera 2025 - Scopri il fascino enologico dei Castelli Romani con una visita alle suggestive cantine ipogee della tenuta. Prenota la tua degustazione, immergiti nella storia dei vini laziali e assicurati una fornitura di prodotti Tenuta Sant’Anna direttamente a casa tua.
+                                Starting in spring 2025 - Discover the oenological charm of Castelli Romani with a visit to the charming underground cellars of the estate. Book your tasting, immerse yourself in the history of Lazio wines, and secure a supply of Tenuta Sant’Anna products delivered directly to your home.
                             </p>
                         </div>
                     </div>

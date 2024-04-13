@@ -7,11 +7,11 @@
                 <div class="bread-crumb-area-inner">
                     <div class="breadcrumb-top">
                         <a href="index.html">Home</a> /
-                        <a class="active" href="contatti.html">Dove Siamo</a>
+                        <a class="active" href="contatti.html">How to find us</a>
                     </div>
                     <div class="bottom-title">
-                        <h1 class="title">Dove Siamo</h1>
-                        <a href="https://lc.cx/0dj3j-" class="rts-btn btn-primary" target="_blank">Iscriviti alla Newsletter</a>
+                        <h1 class="title">How to find us</h1>
+                        <a href="https://lc.cx/0dj3j-" class="rts-btn btn-primary" target="_blank">Subscribe to Newsletter</a>
                     </div>
                 </div>
             </div>
@@ -31,9 +31,9 @@
                         <div class="col-md-12">
                             <h3 class="title-main-s">Castelli Romani</h3>
                             <p class="disc">
-                                Borgo Mattei è il cuore di Tenuta Sant’Anna: azienda agrituristica composta da quasi 20 ettari di terreni coltivati ad ulivo e soprattutto a vite che da sempre costituisce il fulcro della vocazione agricola del territorio dei Castelli Romani. Si tratta prevalentemente di vitigni a bacca bianca che rientrano nel Frascati a denominazione di origine controllata: Malvasia di Candia, Trebbiano, Greco bianco.<br><br>
-                                Questi fertili terreni si sono formati a seguito dell'intensa attività eruttiva dell’antico Vulcano Laziale, che diede origine in più fasi ai Campi di Annibale, Monte Cavo, al Colle Iano, nonché ai diversi laghi vulcanici, fra i quali ancora oggi ammiriamo il lago Albano e il lago di Nemi.
-                                Tutta l’area coltivata di tenuta Sant’Anna è visitabile e offre la possibilità di percorrere sentieri in un contesto originale con una vista unica che, raggiungendo il mar Tirreno, attraversa tutta la città di Roma.
+                                Borgo Mattei is the heart of Tenuta Sant'Anna: an agritourism estate consisting of nearly 20 hectares of land cultivated with olive trees and, above all, vineyards, which has always been the focal point of the agricultural vocation of the Castelli Romani territory. It mainly consists of white grape varieties that fall under the Frascati Controlled Designation of Origin: Malvasia di Candia, Trebbiano, and Greco Bianco.<br><br>
+                                These fertile lands were formed as a result of the intense volcanic activity of the ancient Latium volcano, which gave rise to the Campi di Annibale, Monte Cavo, and Colle Iano, as well as the various volcanic lakes, among which we still admire Lake Albano and Lake Nemi today.
+                                The entire cultivated area of Tenuta Sant'Anna is visitable and offers the opportunity to traverse paths in an original setting with a unique view that, reaching the Tyrrhenian Sea, crosses the entire city of Rome.
                             </p>
                         </div>
                     </div>
@@ -68,9 +68,9 @@
             <div class="col-lg-8 vertical-center">
                 <h3 class="title mbot-10 text-left">Visit Castelli Romani</h3>
                 <p class="disc mbot-10">
-                    Scopri 17 borghi dov'è nata la civiltà romana: un territorio da vivere, ascoltare, amare.
+                    Discover 17 villages where Roman civilization was born: a territory to live, listen to, and love.
                 </p>
-                <a href="https://www.visitcastelliromani.it/" class="rts-btn btn-primary" target="_blank">Scopri di più</a>
+                <a href="https://www.visitcastelliromani.it/" class="rts-btn btn-primary" target="_blank">Explore more</a>
             </div>
         </div>
     </div>

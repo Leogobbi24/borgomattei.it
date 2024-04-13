@@ -28,9 +28,9 @@
                         <div class="single-left-banner-swiper-start">
                             <h2 class="title">Welcome to Borgo Mattei</h2>
                             <p class="disc">
-                                Il cuore di  Tenuta Sant’Anna nel Parco dei Castelli Romani a pochi passi da Roma.
+                                The heart of Sant'Anna Estate in the Castelli Romani Park, just a short drive from Rome.
                             </p>
-                            <div class="animation-55"><a href="ospitalita.html" class="rts-btn btn-border">Ospitalità</a></div>
+                            <div class="animation-55"><a href="ospitalita.html" class="rts-btn btn-border">Hospitality</a></div>
                         </div>
                     </div>
                 </div>
@@ -58,7 +58,7 @@
                         </div>
                     </div>
                     <p class="disc mb--25 mt--25 mt_sm--10">
-                        Cuore di una moderna azienda agrituristica composta da quasi 20 ettari di terreni coltivati ad ulivo e vite, il Borgo sorge lungo via di Sant’Anna che collega da secoli l'Abbazia di San Nilo di Grottaferrata con Marino. Ricco di testimonianze romane e medievali, deve il suo nome al cardinale Alessandro Mattei (1744-1820). Nei secoli si susseguono restauri e cambi di proprietà, mantenendo sempre inalterata la vocazione vitivinicola. Oggi la famiglia Negro-Mercanti apre al pubblico Borgo Mattei: <b>un luogo unico, immerso nei paesaggi bucolici dei Castelli Romani e con una vista indimenticabile sulla Città Eterna!</b>
+                        Centerpiece of a modern agritourism estate comprising nearly 20 hectares of olive groves and vineyards, Borgo Mattei lies along Via di Sant’Anna, a road that has connected the Abbey of San Nilo in Grottaferrata to Marino for centuries. Rich in Roman and medieval heritage, it owes its name to Cardinal Alessandro Mattei (1744-1820). Over the centuries, it has seen renovations and changes of ownership, always maintaining its winemaking vocation unchanged. Today, the Negro-Mercanti family opens Borgo Mattei to the public: <b>a unique place, immersed in the bucolic landscapes of Castelli Romani with an unforgettable view of the Eternal City.</b>
                     </p>
                     <div class="mobile-center">
                         <a href="storia.html" class="rts-btn btn-primary">Discover the history</a>
@@ -77,12 +77,12 @@
                     <div class="title-style-left">
                         <div class="pre-title-area">
                             <img src="assets/images/about/02.png" alt="about">
-                            <span class="pre-title">Ospitalità</span>
+                            <span class="pre-title">Hospitality</span>
                         </div>
-                        <h2 class="title quote">Benvenuti in un'oasi<br> di eleganza e relax</h2>
+                        <h2 class="title quote">Welcome to an oasis<br>of elegance and relaxation</h2>
                     </div>
                     <p class="disc">
-                        Vivete la storia di <a href="ospitalita.html#villa">Villa Sant'Anna</a>, dimora del XVII secolo, e godetevi il comfort della <a href="ospitalita.html#casa">Casa colonica</a> tra i vigneti. Appartamenti unici, piscina panoramica, e un'atmosfera che unisce storia e modernità. Scoprite le esperienze personalizzate e lasciatevi incantare dai Castelli Romani.
+                        Experience the history of <a href="ospitalita.html#villa">Villa Sant'Anna</a>, a 17th-century residence, and enjoy the comfort of <a href="ospitalita.html#casa">the farmhouse</a> amid the vineyards. Unique apartments, a panoramic pool, and an atmosphere that blends history and modernity. Discover personalized experiences and let Castelli Romani enchant you.
                     </p>
                     <div class="swiper-next-prev-wrapper">
                         <div class="swiper-button-next"></div>
@@ -105,7 +105,7 @@
                                     </a>
                                     <div class="inenr-content-absolute">
                                         <a href="ospitalita.html">
-                                            <h3 class="title">Scopri l'ospitalità</h3>
+                                            <h3 class="title">Discover hospitality</h3>
                                         </a>
                                     </div>
                                 </div>
@@ -117,7 +117,7 @@
                                     </a>
                                     <div class="inenr-content-absolute">
                                         <a href="ospitalita.html">
-                                            <h3 class="title">Scopri l'ospitalità</h3>
+                                            <h3 class="title">Discover hospitality</h3>
                                         </a>
                                     </div>
                                 </div>
@@ -129,7 +129,7 @@
                                     </a>
                                     <div class="inenr-content-absolute">
                                         <a href="ospitalita.html">
-                                            <h3 class="title">Scopri l'ospitalità</h3>
+                                            <h3 class="title">Discover hospitality</h3>
                                         </a>
                                     </div>
                                 </div>
@@ -144,7 +144,7 @@
 </div>
 
 <div class="col-lg-12 text-center">
-    <a href="ospitalita.html" class="rts-btn btn-primary">Scopri l'ospitalità</a>
+    <a href="ospitalita.html" class="rts-btn btn-primary">Discover hospitality</a>
 </div>
 
 <div class="our-working-process rts-section-gap">
@@ -155,12 +155,12 @@
                     <div class="title-style-left">
                         <div class="pre-title-area">
                             <img src="assets/images/about/02.png" alt="about">
-                            <span class="pre-title">Servizi su richiesta</span>
+                            <span class="pre-title">On-Demand Services</span>
                         </div>
-                        <h2 class="title">Servizi & attività</h2>
+                        <h2 class="title">Services&Activities</h2>
                     </div>
                     <p class="disc">
-                        Una vasta gamma di servizi, attività ed esperienze può essere fornita a Borgo Mattei su richiesta.
+                        A wide range of services, activities, and experiences can be provided at Borgo Mattei upon request.
                     </p>
                 </div>
             </div>
@@ -169,9 +169,9 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 pt--50 pt_md--15 pt_sm--10">
                 <div class="single-working-prcess-one">
                     <div class="inner">
-                        <h4 class="title">Cuoco privato</h4>
+                        <h4 class="title">Private Chef</h4>
                         <p class="disc">
-                            Un abile chef è fondamentale per un'autentica esperienza italiana.
+                            A skilled chef is essential for an authentic Italian experience.
                         </p>
                     </div>
                 </div>
@@ -179,9 +179,9 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 pt--50 pt_md--15 pt_sm--10">
                 <div class="single-working-prcess-one two">
                     <div class="inner">
-                        <h4 class="title">Trasporti</h4>
+                        <h4 class="title">Transportation</h4>
                         <p class="disc">
-                            Trasferimenti privati per l'aeroporto, il centro città o qualsiasi località.
+                            Private transfers to the airport, city center, or any destination.
                         </p>
                     </div>
                 </div>
@@ -191,7 +191,7 @@
                     <div class="inner">
                         <h4 class="title">Concierge</h4>
                         <p class="disc">
-                            Visite ai monumenti più importanti ed esperienze fuori dai sentieri battuti.
+                            Guided tours to the most important monuments and off-the-beaten-path experiences.
                         </p>
                     </div>
                 </div>
@@ -199,9 +199,9 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 pt--50 pt_md--15 pt_sm--10">
                 <div class="single-working-prcess-one four">
                     <div class="inner">
-                        <h4 class="title">Visita alla città di Roma</h4>
+                        <h4 class="title">City of Rome Tour</h4>
                         <p class="disc">
-                            Scopri il centro della Città Eterna in tutta la sua bellezza.
+                            Explore the heart of the Eternal City in all its beauty.
                         </p>
                     </div>
                 </div>
@@ -209,9 +209,9 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 pt--50 pt_md--15 pt_sm--10">
                 <div class="single-working-prcess-one four">
                     <div class="inner">
-                        <h4 class="title">Escursioni in campagna</h4>
+                        <h4 class="title">Countryside Excursions</h4>
                         <p class="disc">
-                            Si possono organizzare passeggiate a cavallo ed autentiche escursioni agricole.
+                            Horseback rides and authentic agricultural excursions can be arranged.
                         </p>
                     </div>
                 </div>
@@ -219,15 +219,15 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 pt--50 pt_md--15 pt_sm--10">
                 <div class="single-working-prcess-one four">
                     <div class="inner">
-                        <h4 class="title">Corso di cucina</h4>
+                        <h4 class="title">Cooking Class</h4>
                         <p class="disc">
-                            È possibile organizzare lezioni con chef locali per conoscere i metodi di cucina italiani.
+                            You can arrange lessons with local chefs to learn Italian cooking methods.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-12 text-center">
-                <a href="servizi.html" class="rts-btn btn-primary">Scopri tutti i servizi</a>
+                <a href="servizi.html" class="rts-btn btn-primary">Discover All Services</a>
             </div>
         </div>
     </div>

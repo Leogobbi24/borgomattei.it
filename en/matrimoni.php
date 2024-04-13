@@ -7,11 +7,11 @@
                 <div class="bread-crumb-area-inner">
                     <div class="breadcrumb-top">
                         <a href="index.html">Home</a> /
-                        <a class="active" href="matrimoni.html">Matrimoni&Eventi</a>
+                        <a class="active" href="matrimoni.html">Weddings&Events</a>
                     </div>
                     <div class="bottom-title">
-                        <h1 class="title">Matrimoni & Eventi</h1>
-                        <a href="mailto:events@borgomattei.it" class="rts-btn btn-primary">Contattaci</a>
+                        <h1 class="title">Weddings & Events</h1>
+                        <a href="mailto:events@borgomattei.it" class="rts-btn btn-primary">Contact us</a>
                     </div>
                 </div>
             </div>
@@ -27,13 +27,13 @@
                     <div class="title-style-left">
                         <div class="pre-title-area">
                             <img src="assets/images/about/02.png" alt="about">
-                            <span class="pre-title">Contattaci per il tuo evento su misura</span>
+                            <span class="pre-title">Contact us for your tailor-made event</span>
                         </div>
-                        <h2 class="title">Matrimoni & Eventi</h2>
+                        <h2 class="title">Weddings & Events</h2>
                     </div>
                     <p class="disc">
-                        Borgo Mattei, non è solamente il luogo ideale per soggiorni indimenticabili, è anche una perfetta location per matrimoni ed eventi privati o aziendali.<br><br>
-                        Capienza massima interna Villa Sant’Anna: 120 persone su più sale (60 persone in sala unica) Capienza massima esterna Giardino della Fontana Ottagonale: 130 persone
+                        Borgo Mattei is not only the ideal place for unforgettable stays but also a perfect venue for weddings and private or corporate events.<br><br>
+                        Maximum capacity inside Villa Sant'Anna: 120 people across multiple rooms (60 people in a single room) Maximum capacity outside in the Garden of the Octagonal Fountain: 130 people
                     </p>
                 </div>
             </div>
@@ -44,17 +44,17 @@
                 <div class="service-wrapper-list-two">
                     <div class="signgle-service-list-two bg_image">
                         <div class="left">
-                            <h2 class="title">Matrimoni</h2>
+                            <h2 class="title">Weddings</h2>
                         </div>
                         <div class="mid-center">
                             <p class="disc">
-                                Qui è possibile soggiornare e festeggiare in un’atmosfera bucolica green chic. Nel profumato giardino di Villa Sant’Anna troverete lo sfondo ideale per la vostra celebrazione simbolica che incanterà tutti gli ospiti. Potrete trascorrere il vostro giorno speciale nel giardino della fontana ottagonale, nella pineta secolare, a bordo piscina o negli originali saloni interni e godere di una vista unica sulla Città Eterna!
+                                Here, you can stay and celebrate in a chic green bucolic atmosphere. In the fragrant garden of Villa Sant'Anna, you will find the ideal backdrop for your symbolic celebration that will enchant all guests. You can spend your special day in the Garden of the Octagonal Fountain, the ancient pine forest, by the pool, or in the original indoor salons, enjoying a unique view of the Eternal City!
                             </p>
                         </div>
                     </div>
                     <div class="signgle-service-list-two bg_image">
                         <div class="left">
-                            <h2 class="title">Eventi privati</h2>
+                            <h2 class="title">Private Events</h2>
                         </div>
                         <div class="mid-center">
                             <p class="disc">
@@ -64,21 +64,21 @@
                     </div>
                     <div class="signgle-service-list-two bg_image">
                         <div class="left">
-                            <h2 class="title">Eventi aziendali</h2>
+                            <h2 class="title">Corporate Events</h2>
                         </div>
                         <div class="mid-center">
                             <p class="disc">
-                                Borgo Mattei è la scelta ideale se desiderate organizzare un evento aziendale in un contesto unico e originale. Qui potrete regalare ai vostri ospiti l’atmosfera bucolica di una tenuta fatta di vigneti e uliveti che da secoli  si affaccia sulla città di Roma. Che sia una cena, un'attività di team building, un soggiorno con esperienze, il vostro evento resterà nella memoria di clienti e collaboratori per lungo tempo!
+                                At Borgo Mattei, your guests can immerse themselves in the colors, sounds, and scents of the Lazio countryside while reliving the tradition of the vast vineyards of Castelli Romani. Indoor and outdoor spaces are suitable for every type of event and a unique panorama of the Eternal City for unforgettable memories!
                             </p>
                         </div>
                     </div>
                     <div class="signgle-service-list-two bg_image">
                         <div class="left">
-                            <h2 class="title">Shooting fotografici e Film location</h2>
+                            <h2 class="title">Photo Shoots and Film Location</h2>
                         </div>
                         <div class="mid-center">
                             <p class="disc">
-                                Per catturare immagini efficaci è importante trovare il giusto set, ma anche lasciarsi ispirare dal contesto, dalla sua storia e dal suo carattere. Borgo Mattei offre angoli unici e inimitabili sia all’interno che all’esterno. La villa, il giardino della fontana ottagonale, la piscina, la vista panoramica su Roma e lo sconfinato vigneto sono un set perfetto.
+                                Capturing impactful images requires finding the right set, but the possibility to draw inspiration from the context, its history, and its character is important as well. Borgo Mattei offers unique and inimitable corners both indoors and outdoors. The villa, the octagonal fountain garden, the pool, the panoramic view of Rome, and the endless vineyard provide a perfect setting.
                             </p>
                         </div>
                     </div>
