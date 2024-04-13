@@ -131,6 +131,26 @@
                             <img src="assets/images/casa/4.jpg">
                         </a>
                     </div>
+                    <div class="col-md-3 col-6 mbot-20">
+                        <a href="assets/images/ccol.jpg">
+                            <img src="assets/images/ccol.jpg">
+                        </a>
+                    </div>
+                    <div class="col-md-3 col-6 mbot-20">
+                        <a href="assets/images/ccol2.jpg">
+                            <img src="assets/images/ccol2.jpg">
+                        </a>
+                    </div>
+                    <div class="col-md-3 col-6 mbot-20">
+                        <a href="assets/images/ccol3.jpg">
+                            <img src="assets/images/ccol3.jpg">
+                        </a>
+                    </div>
+                    <div class="col-md-3 col-6 mbot-20">
+                        <a href="assets/images/ccol4.jpg">
+                            <img src="assets/images/ccol4.jpg">
+                        </a>
+                    </div>
                 </div>
 
                 <div class="row">
