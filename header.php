@@ -6,7 +6,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Borgo Mattei - Relax nel Parco dei Castelli Romani</title>
-    <link rel="stylesheet" href="<?php echo $path?>assets/css/plugins/fontawesome-6.css">
+    <link rel="preload" href="<?php echo $path?>assets/css/plugins/fontawesome-6.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="<?php echo $path?>assets/css/plugins/fontawesome-6.css"></noscript>
     <link rel="stylesheet" href="<?php echo $path?>assets/css/plugins/swiper.min.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/plugins/magnific-popup.min.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/vendor/magnific-popup.css">
