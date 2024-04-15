@@ -101,7 +101,7 @@
                             <div class="swiper-slide">
                                 <div class="single-product-one">
                                     <a href="ospitalita.html" class="thumbnail">
-                                        <img src="assets/images/home/home1.jpg">
+                                        <img src="assets/images/home/home1.webp">
                                     </a>
                                     <div class="inenr-content-absolute">
                                         <a href="ospitalita.html">
@@ -113,7 +113,7 @@
                             <div class="swiper-slide">
                                 <div class="single-product-one">
                                     <a href="ospitalita.html" class="thumbnail">
-                                        <img src="assets/images/home/home3.jpg">
+                                        <img src="assets/images/home/home3.webp">
                                     </a>
                                     <div class="inenr-content-absolute">
                                         <a href="ospitalita.html">
@@ -125,7 +125,7 @@
                             <div class="swiper-slide">
                                 <div class="single-product-one">
                                     <a href="ospitalita.html" class="thumbnail">
-                                        <img src="assets/images/home/home2.jpg">
+                                        <img src="assets/images/home/home2.webp">
                                     </a>
                                     <div class="inenr-content-absolute">
                                         <a href="ospitalita.html">
