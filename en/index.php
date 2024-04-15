@@ -13,7 +13,7 @@
                                 <div class="float-right-content">
                                     <div class="signle-swiper-start">
                                         <div class="thumbnail-banner-one">
-                                            <img src="assets/images/25.jpg" alt="banner">
+                                            <img src="assets/images/25.webp" alt="banner">
                                         </div>
                                     </div>
                                 </div>
@@ -46,7 +46,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="rts-reveal-one">
-                    <img class="rts-reveal-image-one" src="assets/images/24.jpg" alt="about">
+                    <img class="rts-reveal-image-one" src="assets/images/24.webp" alt="about">
                 </div>
             </div>
             <div class="col-lg-6 mt_md--50 mt_sm--30">
