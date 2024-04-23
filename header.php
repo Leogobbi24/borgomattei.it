@@ -16,6 +16,14 @@
     <link rel="stylesheet" href="<?php echo $path?>assets/css/style.css?2">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/custom.css?10">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/utility.min.css">
+
+    <meta property="og:image" content="https://borgomattei.it/assets/images/rect.png"/>
+    <meta property="og:image:width" content="1200"/>
+    <meta property="og:image:height" content="630"/>
+    <meta property="og:image" content="https://borgomattei.it/assets/images/square.png"/>
+    <meta property="og:image:width" content="400"/>
+    <meta property="og:image:height" content="400"/>
+
 </head>
 
 <body class="index-one">
