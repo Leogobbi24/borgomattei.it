@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="<?php echo $path?>assets/css/vendor/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/vendor/metismenu.css">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/style.css?2">
-    <link rel="stylesheet" href="<?php echo $path?>assets/css/custom.css?10">
+    <link rel="stylesheet" href="<?php echo $path?>assets/css/custom.css?11">
     <link rel="stylesheet" href="<?php echo $path?>assets/css/utility.min.css">
 
     <meta property="og:image" content="https://borgomattei.it/assets/images/rect.png"/>

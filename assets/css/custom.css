@@ -260,6 +260,9 @@ a:hover, a:focus, a:active {
 .header-top a{
     padding-left: 10px;
 }
+.product-details-right-one h6{
+    margin-bottom: 10px !important;
+}
 @media only screen and (max-width: 1199px){
     .nav-area-center nav ul {
         gap: 20px;
