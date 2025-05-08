@@ -1,6 +1,6 @@
 <?php $path=(isset($_GET['url_news'])) ? "../" : ""; ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="it">
 
 <head>
     <meta charset="UTF-8">
